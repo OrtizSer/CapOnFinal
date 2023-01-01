@@ -10,14 +10,19 @@ public class RetailSignInPage extends BaseSetup{
 	public RetailSignInPage() {
 	PageFactory.initElements(getDriver(),this);	
 	}
-	@FindBy(id = "email")
+	@FindBy(id ="signinLink")
+	public WebElement signInButton;
+	
+	@FindBy(id ="email")
 	public WebElement emailField;
 	
 	@FindBy(id="password")
 	public WebElement passwordField;
 	
-	@FindBy(xpath ="//button[@type='submit']")
+
+	@FindBy(id ="loginBtn")
 	public WebElement logInButton;
+	
 	
 	@FindBy(id="newAccountBtn")
 	public WebElement newAccountButton;
@@ -37,8 +42,7 @@ public class RetailSignInPage extends BaseSetup{
 	@FindBy(id="signupBtn")
 	public WebElement signUpButton;
 	
-	@FindBy(id="profileImage")
-	public WebElement profileImage;
+	
 	
 	
 	

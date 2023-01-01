@@ -170,3 +170,1776 @@
 2022-11-08 01:20:00,182 - logger file -INFO - user clicked on Sign up button
 2022-11-21 22:56:20,860 - logger file -INFO - React App is equals to React App
 2022-11-21 22:56:20,960 - logger file -INFO - logo is present
+2022-11-28 11:22:21,684 - logger file -INFO - React App is equals to React App
+2022-11-28 11:22:21,886 - logger file -INFO - User clicked on Sing In option
+2022-11-28 11:22:22,082 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-28 11:23:14,395 - logger file -INFO - React App is equals to React App
+2022-11-28 11:23:14,589 - logger file -INFO - User clicked on Sing In option
+2022-11-28 11:23:14,767 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-28 11:25:31,476 - logger file -INFO - React App is equals to React App
+2022-11-28 11:25:31,724 - logger file -INFO - User clicked on Sing In option
+2022-11-28 11:25:31,937 - logger file -INFO - user entered email 12@gmail.comand password Ser12345!
+2022-11-28 11:33:03,962 - logger file -INFO - React App is equals to React App
+2022-11-28 11:36:27,475 - logger file -INFO - React App is equals to React App
+2022-11-29 06:18:29,637 - logger file -INFO - User clicked on Sing In option
+2022-11-29 06:18:29,833 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 06:18:29,913 - logger file -INFO - user clicked on login button
+2022-11-29 06:19:36,026 - logger file -INFO - User clicked on Sing In option
+2022-11-29 06:19:36,218 - logger file -INFO - user entered email 12@gmail.comand password Ser12345!
+2022-11-29 06:19:36,300 - logger file -INFO - user clicked on login button
+2022-11-29 06:22:36,598 - logger file -INFO - User clicked on Sing In option
+2022-11-29 06:22:36,788 - logger file -INFO - user entered email 12@gmail.comand password Ser12345!
+2022-11-29 06:22:36,870 - logger file -INFO - user clicked on login button
+2022-11-29 06:23:03,445 - logger file -INFO - User clicked on Sing In option
+2022-11-29 06:23:03,661 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 06:23:03,755 - logger file -INFO - user clicked on login button
+2022-11-29 07:23:57,698 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:23:57,796 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 07:23:58,372 - logger file -INFO - user entered required information into sign up form
+2022-11-29 07:23:58,461 - logger file -INFO - user clicked on Sign up button
+2022-11-29 07:25:09,502 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:25:09,648 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 07:25:10,259 - logger file -INFO - user entered required information into sign up form
+2022-11-29 07:25:10,343 - logger file -INFO - user clicked on Sign up button
+2022-11-29 07:26:04,502 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:26:04,603 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 07:26:05,151 - logger file -INFO - user entered required information into sign up form
+2022-11-29 07:26:05,240 - logger file -INFO - user clicked on Sign up button
+2022-11-29 07:26:41,945 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:26:42,150 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 07:26:42,238 - logger file -INFO - user clicked on login button
+2022-11-29 07:26:59,863 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:26:59,968 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 07:27:00,562 - logger file -INFO - user entered required information into sign up form
+2022-11-29 07:27:00,640 - logger file -INFO - user clicked on Sign up button
+2022-11-29 07:27:27,822 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:27:27,966 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 07:27:28,515 - logger file -INFO - user entered required information into sign up form
+2022-11-29 07:27:28,602 - logger file -INFO - user clicked on Sign up button
+2022-11-29 07:28:11,681 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:28:11,871 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 07:28:11,960 - logger file -INFO - user clicked on login button
+2022-11-29 07:30:27,903 - logger file -INFO - User clicked on Sing In option
+2022-11-29 07:30:28,103 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 09:53:28,615 - logger file -INFO - User clicked on Sing In option
+2022-11-29 09:53:28,714 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 09:53:29,266 - logger file -INFO - user entered required information into sign up form
+2022-11-29 09:53:29,354 - logger file -INFO - user clicked on Sign up button
+2022-11-29 09:56:57,717 - logger file -INFO - User clicked on Sing In option
+2022-11-29 09:56:57,812 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 09:56:58,381 - logger file -INFO - user entered required information into sign up form
+2022-11-29 09:56:58,463 - logger file -INFO - user clicked on Sign up button
+2022-11-29 09:56:58,464 - logger file -INFO - User created new account
+2022-11-29 10:12:18,627 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:12:18,833 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 10:13:03,585 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:13:03,689 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 10:13:04,526 - logger file -INFO - user entered required information into sign up form
+2022-11-29 10:13:04,744 - logger file -INFO - user clicked on Sign up button
+2022-11-29 10:13:04,745 - logger file -INFO - User created new account
+2022-11-29 10:13:16,876 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:13:17,028 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 10:13:17,857 - logger file -INFO - user entered required information into sign up form
+2022-11-29 10:13:18,007 - logger file -INFO - user clicked on Sign up button
+2022-11-29 10:13:18,010 - logger file -INFO - User created new account
+2022-11-29 10:14:07,638 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:14:07,757 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 10:14:08,313 - logger file -INFO - user entered required information into sign up form
+2022-11-29 10:14:08,395 - logger file -INFO - user clicked on Sign up button
+2022-11-29 10:14:08,396 - logger file -INFO - User created new account
+2022-11-29 10:15:53,283 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:15:53,489 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-29 10:16:38,427 - logger file -INFO - User clicked on Sing In option
+2022-11-29 10:16:38,540 - logger file -INFO - user clicked on Create New Account button
+2022-11-29 10:16:39,179 - logger file -INFO - user entered required information into sign up form
+2022-11-29 10:16:39,291 - logger file -INFO - user clicked on Sign up button
+2022-11-29 10:16:39,291 - logger file -INFO - User created new account
+2022-11-29 11:58:32,027 - logger file -INFO - User clicked on Sing In option
+2022-11-29 11:58:32,221 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:09:11,624 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:09:11,879 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:20:33,307 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:20:33,507 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:21:53,397 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:21:53,622 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:25:22,384 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:25:22,623 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:25:43,018 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:25:43,237 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:26:56,664 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:26:56,883 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:43:14,379 - logger file -INFO - 
+2022-11-30 10:47:46,883 - logger file -INFO - 
+2022-11-30 10:47:47,061 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:47:47,263 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 10:48:23,988 - logger file -INFO - 
+2022-11-30 10:48:24,152 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:48:24,368 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 10:52:02,979 - logger file -INFO - 
+2022-11-30 10:52:03,144 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:52:03,430 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 10:52:03,514 - logger file -INFO - user clicked on login button
+2022-11-30 10:53:00,038 - logger file -INFO - 
+2022-11-30 10:56:04,229 - logger file -INFO - 
+2022-11-30 10:56:04,367 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:56:04,573 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 10:56:04,654 - logger file -INFO - user clicked on login button
+2022-11-30 10:58:31,853 - logger file -INFO - 
+2022-11-30 10:58:32,013 - logger file -INFO - User clicked on Sing In option
+2022-11-30 10:58:32,205 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 10:58:32,284 - logger file -INFO - user clicked on login button
+2022-11-30 11:02:39,161 - logger file -INFO - 
+2022-11-30 11:02:39,341 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:02:39,530 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 11:02:39,609 - logger file -INFO - user clicked on login button
+2022-11-30 11:11:09,078 - logger file -INFO - 
+2022-11-30 11:11:09,233 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:11:09,437 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 11:11:09,515 - logger file -INFO - user clicked on login button
+2022-11-30 11:14:19,394 - logger file -INFO - 
+2022-11-30 11:14:19,530 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:14:19,736 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 11:14:19,815 - logger file -INFO - user clicked on login button
+2022-11-30 11:14:19,842 - logger file -INFO - user logged in into account
+2022-11-30 11:23:44,248 - logger file -INFO - 
+2022-11-30 11:23:44,406 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:23:44,616 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 11:23:44,695 - logger file -INFO - user clicked on login button
+2022-11-30 11:23:44,723 - logger file -INFO - user logged in into account
+2022-11-30 11:24:59,846 - logger file -INFO - 
+2022-11-30 11:25:00,071 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:25:00,233 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 11:25:01,091 - logger file -INFO - user entered required information into sign up form
+2022-11-30 11:25:01,259 - logger file -INFO - user clicked on Sign up button
+2022-11-30 11:25:01,261 - logger file -INFO - User created new account
+2022-11-30 11:27:16,304 - logger file -INFO - 
+2022-11-30 11:27:16,488 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:27:16,628 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 11:27:17,194 - logger file -INFO - user entered required information into sign up form
+2022-11-30 11:27:17,275 - logger file -INFO - user clicked on Sign up button
+2022-11-30 11:27:17,276 - logger file -INFO - User created new account
+2022-11-30 11:28:11,775 - logger file -INFO - 
+2022-11-30 11:28:11,904 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:28:12,099 - logger file -INFO - user entered email 123456@gmail.comand password S12345678s!
+2022-11-30 11:28:12,181 - logger file -INFO - user clicked on login button
+2022-11-30 11:28:12,214 - logger file -INFO - user logged in into account
+2022-11-30 11:29:41,426 - logger file -INFO - 
+2022-11-30 11:29:41,636 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:29:41,876 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:29:41,957 - logger file -INFO - user clicked on login button
+2022-11-30 11:29:41,987 - logger file -INFO - user logged in into account
+2022-11-30 11:34:55,347 - logger file -INFO - 
+2022-11-30 11:34:55,515 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:34:55,704 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:34:55,786 - logger file -INFO - user clicked on login button
+2022-11-30 11:34:55,812 - logger file -INFO - user logged in into account
+2022-11-30 11:39:27,886 - logger file -INFO - 
+2022-11-30 11:39:28,030 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:39:28,219 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:39:28,299 - logger file -INFO - user clicked on login button
+2022-11-30 11:39:28,328 - logger file -INFO - user logged in into account
+2022-11-30 11:39:32,494 - logger file -INFO - 
+2022-11-30 11:39:32,611 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:39:32,718 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 11:39:33,358 - logger file -INFO - user entered required information into sign up form
+2022-11-30 11:39:33,463 - logger file -INFO - user clicked on Sign up button
+2022-11-30 11:39:33,463 - logger file -INFO - User created new account
+2022-11-30 11:40:30,885 - logger file -INFO - 
+2022-11-30 11:40:31,029 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:40:31,229 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:40:31,310 - logger file -INFO - user clicked on login button
+2022-11-30 11:40:31,338 - logger file -INFO - user logged in into account
+2022-11-30 11:43:38,996 - logger file -INFO - 
+2022-11-30 11:43:39,157 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:43:39,361 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:43:39,467 - logger file -INFO - user clicked on login button
+2022-11-30 11:43:39,498 - logger file -INFO - user logged in into account
+2022-11-30 11:44:54,563 - logger file -INFO - 
+2022-11-30 11:44:54,699 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:44:54,896 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:44:54,977 - logger file -INFO - user clicked on login button
+2022-11-30 11:44:55,026 - logger file -INFO - user logged in into account
+2022-11-30 11:47:58,035 - logger file -INFO - 
+2022-11-30 11:47:58,175 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:47:58,370 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:47:58,445 - logger file -INFO - user clicked on login button
+2022-11-30 11:47:58,473 - logger file -INFO - user logged in into account
+2022-11-30 11:48:02,804 - logger file -INFO - 
+2022-11-30 11:48:02,937 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:48:03,035 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 11:48:03,583 - logger file -INFO - user entered required information into sign up form
+2022-11-30 11:48:03,666 - logger file -INFO - user clicked on Sign up button
+2022-11-30 11:48:03,667 - logger file -INFO - User created new account
+2022-11-30 11:49:53,817 - logger file -INFO - 
+2022-11-30 11:49:53,963 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:49:54,166 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:49:54,246 - logger file -INFO - user clicked on login button
+2022-11-30 11:49:54,275 - logger file -INFO - user logged in into account
+2022-11-30 11:49:58,504 - logger file -INFO - 
+2022-11-30 11:49:58,607 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:49:58,724 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 11:49:59,285 - logger file -INFO - user entered required information into sign up form
+2022-11-30 11:49:59,365 - logger file -INFO - user clicked on Sign up button
+2022-11-30 11:49:59,366 - logger file -INFO - User created new account
+2022-11-30 11:52:50,682 - logger file -INFO - 
+2022-11-30 11:52:50,819 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:52:51,036 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:52:51,127 - logger file -INFO - user clicked on login button
+2022-11-30 11:52:51,159 - logger file -INFO - user logged in into account
+2022-11-30 11:53:42,828 - logger file -INFO - 
+2022-11-30 11:53:42,970 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:53:43,155 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:53:43,234 - logger file -INFO - user clicked on login button
+2022-11-30 11:53:43,265 - logger file -INFO - user logged in into account
+2022-11-30 11:56:41,297 - logger file -INFO - 
+2022-11-30 11:56:41,485 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:56:41,713 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:56:41,798 - logger file -INFO - user clicked on login button
+2022-11-30 11:56:41,836 - logger file -INFO - user logged in into account
+2022-11-30 11:58:54,192 - logger file -INFO - 
+2022-11-30 11:58:54,336 - logger file -INFO - User clicked on Sing In option
+2022-11-30 11:58:54,538 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 11:58:54,616 - logger file -INFO - user clicked on login button
+2022-11-30 11:58:54,646 - logger file -INFO - user logged in into account
+2022-11-30 12:00:37,227 - logger file -INFO - 
+2022-11-30 12:00:37,378 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:00:37,575 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:00:37,664 - logger file -INFO - user clicked on login button
+2022-11-30 12:00:37,697 - logger file -INFO - user logged in into account
+2022-11-30 12:01:26,745 - logger file -INFO - 
+2022-11-30 12:01:26,935 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:01:27,186 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:01:27,272 - logger file -INFO - user clicked on login button
+2022-11-30 12:01:27,300 - logger file -INFO - user logged in into account
+2022-11-30 12:03:00,025 - logger file -INFO - 
+2022-11-30 12:03:00,174 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:03:00,377 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:03:00,456 - logger file -INFO - user clicked on login button
+2022-11-30 12:03:00,487 - logger file -INFO - user logged in into account
+2022-11-30 12:05:08,704 - logger file -INFO - 
+2022-11-30 12:05:08,847 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:05:09,031 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:05:09,109 - logger file -INFO - user clicked on login button
+2022-11-30 12:05:09,138 - logger file -INFO - user logged in into account
+2022-11-30 12:05:37,787 - logger file -INFO - 
+2022-11-30 12:05:37,962 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:05:38,193 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:05:38,273 - logger file -INFO - user clicked on login button
+2022-11-30 12:05:38,302 - logger file -INFO - user logged in into account
+2022-11-30 12:19:39,674 - logger file -INFO - 
+2022-11-30 12:19:39,803 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:19:40,013 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:19:40,091 - logger file -INFO - user clicked on login button
+2022-11-30 12:22:11,071 - logger file -INFO - 
+2022-11-30 12:22:11,215 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:22:11,421 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:22:11,503 - logger file -INFO - user clicked on login button
+2022-11-30 12:31:40,600 - logger file -INFO - 
+2022-11-30 12:31:40,731 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:31:40,913 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:31:40,993 - logger file -INFO - user clicked on login button
+2022-11-30 12:39:09,427 - logger file -INFO - 
+2022-11-30 12:39:09,562 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:39:09,754 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:39:09,830 - logger file -INFO - user clicked on login button
+2022-11-30 12:40:40,284 - logger file -INFO - 
+2022-11-30 12:40:40,455 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:40:40,749 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:40:40,835 - logger file -INFO - user clicked on login button
+2022-11-30 12:40:41,240 - logger file -INFO - user logged in into account
+2022-11-30 12:42:55,209 - logger file -INFO - 
+2022-11-30 12:42:55,346 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:42:55,648 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:42:55,736 - logger file -INFO - user clicked on login button
+2022-11-30 12:42:56,145 - logger file -INFO - user logged in into account
+2022-11-30 12:42:56,287 - logger file -INFO - User clicked on Account button
+2022-11-30 12:45:32,391 - logger file -INFO - 
+2022-11-30 12:45:32,544 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:45:32,836 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:45:32,926 - logger file -INFO - user clicked on login button
+2022-11-30 12:45:33,323 - logger file -INFO - user logged in into account
+2022-11-30 12:45:33,458 - logger file -INFO - User clicked on Account button
+2022-11-30 12:47:04,145 - logger file -INFO - 
+2022-11-30 12:47:04,287 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:47:04,594 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:47:04,682 - logger file -INFO - user clicked on login button
+2022-11-30 12:47:05,050 - logger file -INFO - user logged in into account
+2022-11-30 12:47:05,181 - logger file -INFO - User clicked on Account button
+2022-11-30 12:47:05,592 - logger file -INFO - User entered name noSergioand phone9992223333
+2022-11-30 12:47:05,676 - logger file -INFO - User clicked on Update button
+2022-11-30 12:47:06,537 - logger file -INFO - Alert is displayed
+2022-11-30 12:48:30,692 - logger file -INFO - 
+2022-11-30 12:48:30,828 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:48:30,920 - logger file -INFO - user clicked on Create New Account button
+2022-11-30 12:48:31,489 - logger file -INFO - user entered required information into sign up form
+2022-11-30 12:48:31,573 - logger file -INFO - user clicked on Sign up button
+2022-11-30 12:48:31,574 - logger file -INFO - User created new account
+2022-11-30 12:50:21,077 - logger file -INFO - 
+2022-11-30 12:50:21,212 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:50:21,546 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:50:21,636 - logger file -INFO - user clicked on login button
+2022-11-30 12:50:22,042 - logger file -INFO - user logged in into account
+2022-11-30 12:50:22,187 - logger file -INFO - User clicked on Account button
+2022-11-30 12:50:22,760 - logger file -INFO - User entered required information
+2022-11-30 12:50:22,885 - logger file -INFO - User clicked on ChangePassword button
+2022-11-30 12:52:21,981 - logger file -INFO - 
+2022-11-30 12:52:22,123 - logger file -INFO - User clicked on Sing In option
+2022-11-30 12:52:22,409 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-11-30 12:52:22,496 - logger file -INFO - user clicked on login button
+2022-11-30 12:52:23,772 - logger file -INFO - user logged in into account
+2022-11-30 12:52:23,909 - logger file -INFO - User clicked on Account button
+2022-11-30 12:52:24,434 - logger file -INFO - User entered required information
+2022-11-30 12:52:24,513 - logger file -INFO - User clicked on ChangePassword button
+2022-12-07 07:19:07,515 - logger file -INFO - 
+2022-12-07 07:19:07,532 - logger file -INFO - 
+2022-12-07 07:19:07,752 - logger file -INFO - User clicked on Sing In option
+2022-12-07 07:19:07,757 - logger file -INFO - User clicked on Sing In option
+2022-12-07 07:19:08,390 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 07:19:08,397 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 07:19:08,530 - logger file -INFO - user clicked on login button
+2022-12-07 07:19:08,530 - logger file -INFO - user clicked on login button
+2022-12-07 07:19:09,040 - logger file -INFO - user logged in into account
+2022-12-07 07:19:09,176 - logger file -INFO - user logged in into account
+2022-12-07 07:19:09,346 - logger file -INFO - User clicked on Account button
+2022-12-07 07:19:09,486 - logger file -INFO - User clicked on Account button
+2022-12-07 07:19:10,195 - logger file -INFO - User entered required information
+2022-12-07 07:19:10,278 - logger file -INFO - User entered required information
+2022-12-07 07:19:10,328 - logger file -INFO - User clicked on ChangePassword button
+2022-12-07 07:19:10,451 - logger file -INFO - User clicked on ChangePassword button
+2022-12-07 07:19:50,992 - logger file -INFO - 
+2022-12-07 07:19:51,151 - logger file -INFO - User clicked on Sing In option
+2022-12-07 07:19:51,519 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 07:19:51,629 - logger file -INFO - user clicked on login button
+2022-12-07 07:19:52,029 - logger file -INFO - user logged in into account
+2022-12-07 07:19:52,264 - logger file -INFO - User clicked on Account button
+2022-12-07 07:19:52,726 - logger file -INFO - User entered required information
+2022-12-07 07:19:52,809 - logger file -INFO - User clicked on ChangePassword button
+2022-12-07 22:15:12,402 - logger file -INFO - 
+2022-12-07 22:15:12,595 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:15:13,050 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 22:15:13,160 - logger file -INFO - user clicked on login button
+2022-12-07 22:15:13,708 - logger file -INFO - user logged in into account
+2022-12-07 22:15:17,782 - logger file -INFO - 
+2022-12-07 22:15:17,959 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:15:18,115 - logger file -INFO - user clicked on Create New Account button
+2022-12-07 22:15:18,906 - logger file -INFO - user entered required information into sign up form
+2022-12-07 22:15:18,983 - logger file -INFO - user clicked on Sign up button
+2022-12-07 22:15:18,984 - logger file -INFO - User created new account
+2022-12-07 22:19:42,636 - logger file -INFO - 
+2022-12-07 22:19:42,836 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:19:43,155 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 22:19:43,270 - logger file -INFO - user clicked on login button
+2022-12-07 22:19:43,673 - logger file -INFO - user logged in into account
+2022-12-07 22:19:47,537 - logger file -INFO - 
+2022-12-07 22:19:47,669 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:19:47,769 - logger file -INFO - user clicked on Create New Account button
+2022-12-07 22:19:48,360 - logger file -INFO - user entered required information into sign up form
+2022-12-07 22:19:48,452 - logger file -INFO - user clicked on Sign up button
+2022-12-07 22:19:48,453 - logger file -INFO - User created new account
+2022-12-07 22:27:41,411 - logger file -INFO - 
+2022-12-07 22:27:41,587 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:27:41,896 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-07 22:27:41,994 - logger file -INFO - user clicked on login button
+2022-12-07 22:27:42,365 - logger file -INFO - user logged in into account
+2022-12-07 22:27:46,310 - logger file -INFO - 
+2022-12-07 22:27:46,447 - logger file -INFO - User clicked on Sing In option
+2022-12-07 22:27:46,546 - logger file -INFO - user clicked on Create New Account button
+2022-12-07 22:27:47,149 - logger file -INFO - user entered required information into sign up form
+2022-12-07 22:27:47,248 - logger file -INFO - user clicked on Sign up button
+2022-12-07 22:27:47,248 - logger file -INFO - User created new account
+2022-12-08 22:17:58,178 - logger file -INFO - 
+2022-12-08 22:17:58,423 - logger file -INFO - User clicked on Sing In option
+2022-12-08 22:17:58,970 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-08 22:17:59,106 - logger file -INFO - user clicked on login button
+2022-12-08 22:17:59,534 - logger file -INFO - user logged in into account
+2022-12-08 22:18:03,845 - logger file -INFO - 
+2022-12-08 22:18:04,020 - logger file -INFO - User clicked on Sing In option
+2022-12-08 22:18:04,148 - logger file -INFO - user clicked on Create New Account button
+2022-12-08 22:18:04,846 - logger file -INFO - user entered required information into sign up form
+2022-12-08 22:18:04,939 - logger file -INFO - user clicked on Sign up button
+2022-12-08 22:18:04,939 - logger file -INFO - User created new account
+2022-12-12 23:02:13,014 - logger file -INFO - 
+2022-12-12 23:02:13,107 - logger file -INFO - 
+2022-12-12 23:02:13,315 - logger file -INFO - User clicked on Sing In option
+2022-12-12 23:02:13,662 - logger file -INFO - User clicked on Sing In option
+2022-12-12 23:02:13,937 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-12 23:02:14,044 - logger file -INFO - user clicked on login button
+2022-12-12 23:02:14,114 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-12 23:02:14,204 - logger file -INFO - user clicked on login button
+2022-12-12 23:02:14,860 - logger file -INFO - user logged in into account
+2022-12-12 23:02:18,217 - logger file -INFO - 
+2022-12-12 23:02:18,428 - logger file -INFO - User clicked on Sing In option
+2022-12-12 23:02:18,557 - logger file -INFO - user clicked on Create New Account button
+2022-12-12 23:02:19,544 - logger file -INFO - user entered required information into sign up form
+2022-12-12 23:02:19,677 - logger file -INFO - user clicked on Sign up button
+2022-12-12 23:02:19,679 - logger file -INFO - User created new account
+2022-12-29 07:06:18,528 - logger file -INFO - 
+2022-12-29 07:06:18,673 - logger file -INFO - User clicked on Sing In option
+2022-12-29 07:06:18,773 - logger file -INFO - user clicked on Create New Account button
+2022-12-29 07:06:19,398 - logger file -INFO - user entered required information into sign up form
+2022-12-29 07:06:19,487 - logger file -INFO - user clicked on Sign up button
+2022-12-29 07:06:19,488 - logger file -INFO - User created new account
+2022-12-29 07:07:30,273 - logger file -INFO - 
+2022-12-29 07:14:08,354 - logger file -INFO - 
+2022-12-29 07:14:08,532 - logger file -INFO - User clicked on Sing In option
+2022-12-29 07:14:08,829 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-29 07:14:08,925 - logger file -INFO - user clicked on login button
+2022-12-29 07:14:09,331 - logger file -INFO - user logged in into account
+2022-12-29 07:16:30,541 - logger file -INFO - 
+2022-12-29 07:16:30,736 - logger file -INFO - User clicked on Sing In option
+2022-12-29 07:16:31,071 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-29 07:16:31,184 - logger file -INFO - user clicked on login button
+2022-12-29 07:16:31,559 - logger file -INFO - user logged in into account
+2022-12-29 07:16:31,724 - logger file -INFO - User clicked on Account button
+2022-12-29 07:16:32,116 - logger file -INFO - User entered name noSergioand phone9992223333
+2022-12-29 07:16:32,190 - logger file -INFO - User clicked on Update button
+2022-12-29 07:47:51,257 - logger file -INFO - 
+2022-12-29 07:47:51,461 - logger file -INFO - User clicked on Sing In option
+2022-12-29 07:47:51,835 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-29 07:47:51,962 - logger file -INFO - user clicked on login button
+2022-12-29 07:47:52,416 - logger file -INFO - user logged in into account
+2022-12-29 07:47:52,600 - logger file -INFO - User clicked on Account button
+2022-12-29 07:47:53,007 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-29 07:47:53,090 - logger file -INFO - User clicked on Update button
+2022-12-30 06:33:54,469 - logger file -INFO - 
+2022-12-30 06:33:54,644 - logger file -INFO - User clicked on Sing In option
+2022-12-30 06:33:55,003 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 06:33:55,097 - logger file -INFO - user clicked on login button
+2022-12-30 06:33:55,474 - logger file -INFO - user logged in into account
+2022-12-30 06:33:55,631 - logger file -INFO - User clicked on Account button
+2022-12-30 06:33:56,207 - logger file -INFO - User entered required information
+2022-12-30 06:33:56,317 - logger file -INFO - User clicked on ChangePassword button
+2022-12-30 06:59:18,637 - logger file -INFO - 
+2022-12-30 06:59:18,760 - logger file -INFO - User clicked on Sing In option
+2022-12-30 06:59:19,067 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 06:59:19,158 - logger file -INFO - user clicked on login button
+2022-12-30 06:59:19,504 - logger file -INFO - user logged in into account
+2022-12-30 06:59:19,641 - logger file -INFO - User clicked on Account button
+2022-12-30 06:59:19,982 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 06:59:20,055 - logger file -INFO - User clicked on Update button
+2022-12-30 06:59:20,813 - logger file -INFO - Alert is displayed
+2022-12-30 07:14:00,231 - logger file -INFO - 
+2022-12-30 07:14:00,502 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:14:00,793 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:14:00,866 - logger file -INFO - user clicked on login button
+2022-12-30 07:14:01,233 - logger file -INFO - user logged in into account
+2022-12-30 07:14:01,516 - logger file -INFO - User clicked on Account button
+2022-12-30 07:14:01,828 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:14:01,896 - logger file -INFO - User clicked on Update button
+2022-12-30 07:18:36,160 - logger file -INFO - 
+2022-12-30 07:18:36,273 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:18:36,502 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:18:36,568 - logger file -INFO - user clicked on login button
+2022-12-30 07:18:36,918 - logger file -INFO - user logged in into account
+2022-12-30 07:18:37,042 - logger file -INFO - User clicked on Account button
+2022-12-30 07:18:37,352 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:18:37,416 - logger file -INFO - User clicked on Update button
+2022-12-30 07:19:40,995 - logger file -INFO - 
+2022-12-30 07:19:41,107 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:19:41,348 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:19:41,410 - logger file -INFO - user clicked on login button
+2022-12-30 07:19:41,773 - logger file -INFO - user logged in into account
+2022-12-30 07:19:41,911 - logger file -INFO - User clicked on Account button
+2022-12-30 07:19:42,203 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:19:42,269 - logger file -INFO - User clicked on Update button
+2022-12-30 07:20:57,412 - logger file -INFO - 
+2022-12-30 07:20:57,526 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:20:57,766 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:20:57,832 - logger file -INFO - user clicked on login button
+2022-12-30 07:20:58,187 - logger file -INFO - user logged in into account
+2022-12-30 07:20:58,329 - logger file -INFO - User clicked on Account button
+2022-12-30 07:20:58,626 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:20:58,688 - logger file -INFO - User clicked on Update button
+2022-12-30 07:23:32,084 - logger file -INFO - 
+2022-12-30 07:23:32,191 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:23:32,434 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:23:32,499 - logger file -INFO - user clicked on login button
+2022-12-30 07:23:32,845 - logger file -INFO - user logged in into account
+2022-12-30 07:23:32,980 - logger file -INFO - User clicked on Account button
+2022-12-30 07:23:33,270 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:23:33,332 - logger file -INFO - User clicked on Update button
+2022-12-30 07:25:11,729 - logger file -INFO - 
+2022-12-30 07:25:11,849 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:25:12,098 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:25:12,163 - logger file -INFO - user clicked on login button
+2022-12-30 07:25:12,728 - logger file -INFO - user logged in into account
+2022-12-30 07:25:12,865 - logger file -INFO - User clicked on Account button
+2022-12-30 07:25:13,144 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:25:13,207 - logger file -INFO - User clicked on Update button
+2022-12-30 07:28:45,747 - logger file -INFO - 
+2022-12-30 07:28:45,878 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:28:46,133 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:28:46,196 - logger file -INFO - user clicked on login button
+2022-12-30 07:28:46,527 - logger file -INFO - user logged in into account
+2022-12-30 07:28:46,646 - logger file -INFO - User clicked on Account button
+2022-12-30 07:28:46,951 - logger file -INFO - User entered name Sergioand phone9992223333
+2022-12-30 07:28:47,013 - logger file -INFO - User clicked on Update button
+2022-12-30 07:29:34,153 - logger file -INFO - 
+2022-12-30 07:29:34,293 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:29:34,549 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:29:34,614 - logger file -INFO - user clicked on login button
+2022-12-30 07:29:35,012 - logger file -INFO - user logged in into account
+2022-12-30 07:29:35,139 - logger file -INFO - User clicked on Account button
+2022-12-30 07:29:35,418 - logger file -INFO - User entered name Sergiooand phone9992223332
+2022-12-30 07:29:35,493 - logger file -INFO - User clicked on Update button
+2022-12-30 07:38:32,851 - logger file -INFO - 
+2022-12-30 07:38:32,977 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:38:33,222 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:38:33,285 - logger file -INFO - user clicked on login button
+2022-12-30 07:38:33,621 - logger file -INFO - user logged in into account
+2022-12-30 07:38:33,754 - logger file -INFO - User clicked on Account button
+2022-12-30 07:38:34,056 - logger file -INFO - User entered name Sergioand phone9992223332
+2022-12-30 07:38:34,129 - logger file -INFO - User clicked on Update button
+2022-12-30 07:38:34,970 - logger file -INFO - Alert is displayed
+2022-12-30 07:55:52,604 - logger file -INFO - 
+2022-12-30 07:55:52,709 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:55:52,967 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:55:53,033 - logger file -INFO - user clicked on login button
+2022-12-30 07:55:53,366 - logger file -INFO - user logged in into account
+2022-12-30 07:55:53,510 - logger file -INFO - User clicked on Account button
+2022-12-30 07:55:53,836 - logger file -INFO - User entered name Sergioand phone9992223332
+2022-12-30 07:55:53,900 - logger file -INFO - User clicked on Update button
+2022-12-30 07:56:45,803 - logger file -INFO - 
+2022-12-30 07:56:45,923 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:56:46,190 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:56:46,256 - logger file -INFO - user clicked on login button
+2022-12-30 07:56:46,596 - logger file -INFO - user logged in into account
+2022-12-30 07:56:46,722 - logger file -INFO - User clicked on Account button
+2022-12-30 07:56:47,048 - logger file -INFO - User entered name Sergiooand phone9992223333
+2022-12-30 07:56:47,124 - logger file -INFO - User clicked on Update button
+2022-12-30 07:56:47,938 - logger file -INFO - Alert is displayed
+2022-12-30 07:57:16,055 - logger file -INFO - 
+2022-12-30 07:57:16,197 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:57:16,446 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:57:16,517 - logger file -INFO - user clicked on login button
+2022-12-30 07:57:16,916 - logger file -INFO - user logged in into account
+2022-12-30 07:57:17,035 - logger file -INFO - User clicked on Account button
+2022-12-30 07:57:17,379 - logger file -INFO - User entered required information
+2022-12-30 07:57:17,444 - logger file -INFO - User clicked on ChangePassword button
+2022-12-30 07:57:55,299 - logger file -INFO - 
+2022-12-30 07:57:55,416 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:57:55,647 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:57:55,711 - logger file -INFO - user clicked on login button
+2022-12-30 07:57:56,068 - logger file -INFO - user logged in into account
+2022-12-30 07:57:56,188 - logger file -INFO - User clicked on Account button
+2022-12-30 07:57:56,547 - logger file -INFO - User entered required information
+2022-12-30 07:57:56,616 - logger file -INFO - User clicked on ChangePassword button
+2022-12-30 07:59:58,372 - logger file -INFO - 
+2022-12-30 07:59:58,487 - logger file -INFO - User clicked on Sing In option
+2022-12-30 07:59:58,746 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 07:59:58,817 - logger file -INFO - user clicked on login button
+2022-12-30 08:00:28,819 - logger file -INFO - 
+2022-12-30 08:00:28,947 - logger file -INFO - User clicked on Sing In option
+2022-12-30 08:00:29,206 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-30 08:00:29,272 - logger file -INFO - user clicked on login button
+2022-12-30 08:00:57,111 - logger file -INFO - 
+2022-12-30 08:00:57,304 - logger file -INFO - User clicked on Sing In option
+2022-12-30 08:00:57,643 - logger file -INFO - user entered email 1234@gmail.comand password S12345679s!
+2022-12-30 08:00:57,727 - logger file -INFO - user clicked on login button
+2022-12-30 08:00:58,080 - logger file -INFO - user logged in into account
+2022-12-30 08:00:58,230 - logger file -INFO - User clicked on Account button
+2022-12-30 08:00:58,680 - logger file -INFO - User entered required information
+2022-12-30 08:00:58,748 - logger file -INFO - User clicked on ChangePassword button
+2022-12-30 08:00:59,775 - logger file -INFO - Password Updated Successfully is displayed
+2022-12-31 07:41:26,257 - logger file -INFO - 
+2022-12-31 07:41:26,378 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:41:26,599 - logger file -INFO - user entered email 1234@gmail.comand password S12345679s!
+2022-12-31 07:41:26,660 - logger file -INFO - user clicked on login button
+2022-12-31 07:42:02,257 - logger file -INFO - 
+2022-12-31 07:42:02,387 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:42:02,659 - logger file -INFO - user entered email 1234@gmail.comand password S12345679s!
+2022-12-31 07:42:02,736 - logger file -INFO - user clicked on login button
+2022-12-31 07:42:43,521 - logger file -INFO - 
+2022-12-31 07:42:43,653 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:42:43,900 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 07:42:43,970 - logger file -INFO - user clicked on login button
+2022-12-31 07:42:44,312 - logger file -INFO - user logged in into account
+2022-12-31 07:42:44,440 - logger file -INFO - User clicked on Account button
+2022-12-31 07:42:44,506 - logger file -INFO - user clicked on add a payment method link
+2022-12-31 07:42:44,990 - logger file -INFO - user entered required card information
+2022-12-31 07:42:45,059 - logger file -INFO - user clicked on Add your card button
+2022-12-31 07:49:04,103 - logger file -INFO - 
+2022-12-31 07:49:04,205 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:49:04,459 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 07:49:04,521 - logger file -INFO - user clicked on login button
+2022-12-31 07:49:04,868 - logger file -INFO - user logged in into account
+2022-12-31 07:49:04,994 - logger file -INFO - User clicked on Account button
+2022-12-31 07:49:05,064 - logger file -INFO - user clicked on add a payment method link
+2022-12-31 07:49:05,567 - logger file -INFO - user entered required card information
+2022-12-31 07:49:05,628 - logger file -INFO - user clicked on Add your card button
+2022-12-31 07:49:53,868 - logger file -INFO - 
+2022-12-31 07:49:54,002 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:49:54,246 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 07:49:54,312 - logger file -INFO - user clicked on login button
+2022-12-31 07:49:54,685 - logger file -INFO - user logged in into account
+2022-12-31 07:49:54,812 - logger file -INFO - User clicked on Account button
+2022-12-31 07:49:54,887 - logger file -INFO - user clicked on add a payment method link
+2022-12-31 07:49:55,340 - logger file -INFO - user entered required card information
+2022-12-31 07:49:55,412 - logger file -INFO - user clicked on Add your card button
+2022-12-31 07:54:30,995 - logger file -INFO - 
+2022-12-31 07:54:31,115 - logger file -INFO - User clicked on Sing In option
+2022-12-31 07:54:31,344 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 07:54:31,407 - logger file -INFO - user clicked on login button
+2022-12-31 07:54:31,738 - logger file -INFO - user logged in into account
+2022-12-31 07:54:31,865 - logger file -INFO - User clicked on Account button
+2022-12-31 07:54:31,934 - logger file -INFO - user clicked on add a payment method link
+2022-12-31 07:54:32,432 - logger file -INFO - user entered required card information
+2022-12-31 07:54:32,494 - logger file -INFO - user clicked on Add your card button
+2022-12-31 08:08:45,527 - logger file -INFO - 
+2022-12-31 08:08:45,627 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:08:45,847 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:08:45,911 - logger file -INFO - user clicked on login button
+2022-12-31 08:08:46,274 - logger file -INFO - user logged in into account
+2022-12-31 08:08:46,404 - logger file -INFO - User clicked on Account button
+2022-12-31 08:14:07,540 - logger file -INFO - 
+2022-12-31 08:14:07,643 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:14:07,857 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:14:07,916 - logger file -INFO - user clicked on login button
+2022-12-31 08:14:08,260 - logger file -INFO - user logged in into account
+2022-12-31 08:14:08,387 - logger file -INFO - User clicked on Account button
+2022-12-31 08:14:08,650 - logger file -INFO - 9852is selected
+2022-12-31 08:14:08,726 - logger file -INFO - user clicked on Edit Option
+2022-12-31 08:14:09,331 - logger file -INFO - user entered required card information
+2022-12-31 08:14:09,394 - logger file -INFO - user clicked on Update your card button
+2022-12-31 08:19:22,067 - logger file -INFO - 
+2022-12-31 08:19:22,187 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:19:22,424 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:19:22,487 - logger file -INFO - user clicked on login button
+2022-12-31 08:19:22,835 - logger file -INFO - user logged in into account
+2022-12-31 08:19:22,961 - logger file -INFO - User clicked on Account button
+2022-12-31 08:19:23,167 - logger file -INFO - 9852is selected
+2022-12-31 08:19:23,243 - logger file -INFO - user clicked on Edit Option
+2022-12-31 08:19:23,817 - logger file -INFO - user entered required card information
+2022-12-31 08:19:23,885 - logger file -INFO - user clicked on Update your card button
+2022-12-31 08:21:59,876 - logger file -INFO - 
+2022-12-31 08:21:59,985 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:22:00,217 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:22:00,280 - logger file -INFO - user clicked on login button
+2022-12-31 08:22:00,626 - logger file -INFO - user logged in into account
+2022-12-31 08:22:00,754 - logger file -INFO - User clicked on Account button
+2022-12-31 08:22:00,965 - logger file -INFO - 9852is selected
+2022-12-31 08:22:01,046 - logger file -INFO - user clicked on Edit Option
+2022-12-31 08:22:01,608 - logger file -INFO - user entered required card information
+2022-12-31 08:22:01,681 - logger file -INFO - user clicked on Update your card button
+2022-12-31 08:24:50,831 - logger file -INFO - 
+2022-12-31 08:24:50,939 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:24:51,182 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:24:51,254 - logger file -INFO - user clicked on login button
+2022-12-31 08:24:51,591 - logger file -INFO - user logged in into account
+2022-12-31 08:24:51,721 - logger file -INFO - User clicked on Account button
+2022-12-31 08:24:51,942 - logger file -INFO - 9852is selected
+2022-12-31 08:24:52,017 - logger file -INFO - user clicked on Edit Option
+2022-12-31 08:24:52,581 - logger file -INFO - user entered required card information
+2022-12-31 08:24:52,648 - logger file -INFO - user clicked on Update your card button
+2022-12-31 08:36:36,002 - logger file -INFO - 
+2022-12-31 08:36:36,114 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:36:36,334 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:36:36,400 - logger file -INFO - user clicked on login button
+2022-12-31 08:36:36,740 - logger file -INFO - user logged in into account
+2022-12-31 08:36:36,868 - logger file -INFO - User clicked on Account button
+2022-12-31 08:36:37,085 - logger file -INFO - 3654is selected
+2022-12-31 08:36:37,158 - logger file -INFO - user clicked on remove option of card section
+2022-12-31 08:36:37,184 - logger file -INFO - 
+2022-12-31 08:37:18,035 - logger file -INFO - 
+2022-12-31 08:37:18,158 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:37:18,384 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:37:18,446 - logger file -INFO - user clicked on login button
+2022-12-31 08:37:18,783 - logger file -INFO - user logged in into account
+2022-12-31 08:37:18,920 - logger file -INFO - User clicked on Account button
+2022-12-31 08:37:18,994 - logger file -INFO - user clicked on add a payment method link
+2022-12-31 08:37:19,481 - logger file -INFO - user entered required card information
+2022-12-31 08:37:19,543 - logger file -INFO - user clicked on Add your card button
+2022-12-31 08:39:22,173 - logger file -INFO - 
+2022-12-31 08:39:22,285 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:39:22,522 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:39:22,587 - logger file -INFO - user clicked on login button
+2022-12-31 08:39:22,918 - logger file -INFO - user logged in into account
+2022-12-31 08:39:23,027 - logger file -INFO - User clicked on Account button
+2022-12-31 08:39:23,126 - logger file -INFO - user clicked on Add Address option
+2022-12-31 08:47:00,394 - logger file -INFO - 
+2022-12-31 08:47:00,558 - logger file -INFO - User clicked on Sing In option
+2022-12-31 08:47:00,863 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 08:47:00,941 - logger file -INFO - user clicked on login button
+2022-12-31 08:47:01,249 - logger file -INFO - user logged in into account
+2022-12-31 08:47:01,386 - logger file -INFO - User clicked on Account button
+2022-12-31 08:47:01,667 - logger file -INFO - 9852is selected
+2022-12-31 08:47:01,777 - logger file -INFO - user clicked on Edit Option
+2022-12-31 08:47:02,454 - logger file -INFO - user entered required card information
+2022-12-31 08:47:02,525 - logger file -INFO - user clicked on Update your card button
+2022-12-31 09:14:43,157 - logger file -INFO - 
+2022-12-31 09:14:43,272 - logger file -INFO - User clicked on Sing In option
+2022-12-31 09:14:43,491 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 09:14:43,553 - logger file -INFO - user clicked on login button
+2022-12-31 09:14:43,869 - logger file -INFO - user logged in into account
+2022-12-31 09:14:44,004 - logger file -INFO - User clicked on Account button
+2022-12-31 09:14:44,229 - logger file -INFO - 9852is selected
+2022-12-31 09:14:44,306 - logger file -INFO - user clicked on Edit Option
+2022-12-31 09:14:44,856 - logger file -INFO - user entered required card information
+2022-12-31 09:14:44,921 - logger file -INFO - user clicked on Update your card button
+2022-12-31 09:16:02,110 - logger file -INFO - 
+2022-12-31 09:16:02,229 - logger file -INFO - User clicked on Sing In option
+2022-12-31 09:16:02,465 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 09:16:02,525 - logger file -INFO - user clicked on login button
+2022-12-31 09:16:02,868 - logger file -INFO - user logged in into account
+2022-12-31 09:16:02,993 - logger file -INFO - User clicked on Account button
+2022-12-31 09:16:03,214 - logger file -INFO - 9852is selected
+2022-12-31 09:16:03,282 - logger file -INFO - user clicked on Edit Option
+2022-12-31 09:16:03,902 - logger file -INFO - user entered required card information
+2022-12-31 09:16:03,964 - logger file -INFO - user clicked on Update your card button
+2022-12-31 09:16:04,753 - logger file -INFO - Payment Method updated Successfully is displayed
+2022-12-31 10:26:40,113 - logger file -INFO - React App is equal to React App
+2022-12-31 10:26:40,211 - logger file -INFO - user clicked on All element
+2022-12-31 10:26:40,537 - logger file -INFO - TV & Video is present 
+2022-12-31 10:26:40,596 - logger file -INFO - Video Games is present 
+2022-12-31 10:26:43,930 - logger file -INFO - React App is equal to React App
+2022-12-31 10:26:44,027 - logger file -INFO - user clicked on All element
+2022-12-31 10:26:44,143 - logger file -INFO - Accessories is present 
+2022-12-31 10:26:44,206 - logger file -INFO - Networking is present 
+2022-12-31 10:26:47,415 - logger file -INFO - React App is equal to React App
+2022-12-31 10:26:47,499 - logger file -INFO - user clicked on All element
+2022-12-31 10:26:47,640 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 10:26:47,695 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 10:26:51,354 - logger file -INFO - React App is equal to React App
+2022-12-31 10:26:51,432 - logger file -INFO - user clicked on All element
+2022-12-31 10:26:51,586 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 10:26:51,643 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 10:26:54,861 - logger file -INFO - React App is equal to React App
+2022-12-31 10:26:54,959 - logger file -INFO - user clicked on All element
+2022-12-31 10:26:55,124 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 10:26:55,177 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 10:28:59,099 - logger file -INFO - React App is equal to React App
+2022-12-31 10:28:59,202 - logger file -INFO - user clicked on All element
+2022-12-31 10:28:59,260 - logger file -INFO - Electronics is present
+2022-12-31 10:28:59,289 - logger file -INFO - Computers is present
+2022-12-31 10:28:59,315 - logger file -INFO - Smart Home is present
+2022-12-31 10:28:59,341 - logger file -INFO - Sports is present
+2022-12-31 10:28:59,368 - logger file -INFO - Automative is present
+2022-12-31 10:33:09,420 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:09,525 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:09,779 - logger file -INFO - TV & Video is present 
+2022-12-31 10:33:09,842 - logger file -INFO - Video Games is present 
+2022-12-31 10:33:13,220 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:13,310 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:13,424 - logger file -INFO - Accessories is present 
+2022-12-31 10:33:13,475 - logger file -INFO - Networking is present 
+2022-12-31 10:33:16,818 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:16,908 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:17,051 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 10:33:17,105 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 10:33:20,347 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:20,426 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:20,576 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 10:33:20,625 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 10:33:23,822 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:23,896 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:24,052 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 10:33:24,099 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 10:33:57,520 - logger file -INFO - React App is equal to React App
+2022-12-31 10:33:57,617 - logger file -INFO - user clicked on All element
+2022-12-31 10:33:57,876 - logger file -INFO - TV & Video is present 
+2022-12-31 10:33:57,933 - logger file -INFO - Video Games is present 
+2022-12-31 10:34:01,289 - logger file -INFO - React App is equal to React App
+2022-12-31 10:34:01,381 - logger file -INFO - user clicked on All element
+2022-12-31 10:34:01,491 - logger file -INFO - Accessories is present 
+2022-12-31 10:34:01,544 - logger file -INFO - Networking is present 
+2022-12-31 10:34:04,781 - logger file -INFO - React App is equal to React App
+2022-12-31 10:34:04,860 - logger file -INFO - user clicked on All element
+2022-12-31 10:34:04,998 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 10:34:05,056 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 10:34:08,599 - logger file -INFO - React App is equal to React App
+2022-12-31 10:34:08,680 - logger file -INFO - user clicked on All element
+2022-12-31 10:34:09,018 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 10:34:09,087 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 10:34:12,508 - logger file -INFO - React App is equal to React App
+2022-12-31 10:34:12,600 - logger file -INFO - user clicked on All element
+2022-12-31 10:34:12,747 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 10:34:12,795 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 10:35:30,500 - logger file -INFO - React App is equal to React App
+2022-12-31 10:35:30,600 - logger file -INFO - user clicked on All element
+2022-12-31 10:35:30,826 - logger file -INFO - TV & Video is present 
+2022-12-31 10:35:30,887 - logger file -INFO - Video Games is present 
+2022-12-31 10:35:34,222 - logger file -INFO - React App is equal to React App
+2022-12-31 10:35:34,320 - logger file -INFO - user clicked on All element
+2022-12-31 10:35:34,438 - logger file -INFO - Accessories is present 
+2022-12-31 10:35:34,489 - logger file -INFO - Networking is present 
+2022-12-31 10:35:37,936 - logger file -INFO - React App is equal to React App
+2022-12-31 10:35:38,017 - logger file -INFO - user clicked on All element
+2022-12-31 10:35:38,155 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 10:35:38,214 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 10:35:41,620 - logger file -INFO - React App is equal to React App
+2022-12-31 10:35:41,705 - logger file -INFO - user clicked on All element
+2022-12-31 10:35:41,931 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 10:35:41,993 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 10:35:45,268 - logger file -INFO - React App is equal to React App
+2022-12-31 10:35:45,368 - logger file -INFO - user clicked on All element
+2022-12-31 10:35:45,533 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 10:35:45,583 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 10:37:27,109 - logger file -INFO - React App is equal to React App
+2022-12-31 10:42:35,776 - logger file -INFO - React App is equal to React App
+2022-12-31 10:42:35,865 - logger file -INFO - user clicked on All element
+2022-12-31 10:42:36,087 - logger file -INFO - Electronics is present
+2022-12-31 10:42:36,119 - logger file -INFO - Computers is present
+2022-12-31 10:42:36,149 - logger file -INFO - Smart Home is present
+2022-12-31 10:42:36,182 - logger file -INFO - Sports is present
+2022-12-31 10:42:36,208 - logger file -INFO - Automative is present
+2022-12-31 10:43:15,485 - logger file -INFO - React App is equal to React App
+2022-12-31 10:43:15,585 - logger file -INFO - user clicked on All element
+2022-12-31 10:43:15,769 - logger file -INFO - TV & Video is present 
+2022-12-31 10:43:15,821 - logger file -INFO - Video Games is present 
+2022-12-31 10:43:19,273 - logger file -INFO - React App is equal to React App
+2022-12-31 10:43:19,357 - logger file -INFO - user clicked on All element
+2022-12-31 10:43:19,489 - logger file -INFO - Accessories is present 
+2022-12-31 10:43:19,538 - logger file -INFO - Networking is present 
+2022-12-31 10:43:22,766 - logger file -INFO - React App is equal to React App
+2022-12-31 10:43:22,834 - logger file -INFO - user clicked on All element
+2022-12-31 10:43:23,016 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 10:43:23,067 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 10:43:26,428 - logger file -INFO - React App is equal to React App
+2022-12-31 10:43:26,518 - logger file -INFO - user clicked on All element
+2022-12-31 10:43:26,669 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 10:43:26,721 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 10:43:29,922 - logger file -INFO - React App is equal to React App
+2022-12-31 10:43:30,060 - logger file -INFO - user clicked on All element
+2022-12-31 10:43:30,221 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 10:43:30,271 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 10:44:20,588 - logger file -INFO - React App is equal to React App
+2022-12-31 10:50:25,236 - logger file -INFO - React App is equal to React App
+2022-12-31 10:50:25,372 - logger file -INFO - User clicked on Sing In option
+2022-12-31 10:50:25,615 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 10:50:25,679 - logger file -INFO - user clicked on login button
+2022-12-31 10:50:26,028 - logger file -INFO - user logged in into account
+2022-12-31 10:50:26,035 - logger file -INFO - React App is equal to React App
+2022-12-31 11:22:59,962 - logger file -INFO - React App is equal to React App
+2022-12-31 11:23:00,120 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:23:00,346 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:23:00,413 - logger file -INFO - user clicked on login button
+2022-12-31 11:23:00,781 - logger file -INFO - user logged in into account
+2022-12-31 11:23:00,788 - logger file -INFO - React App is equal to React App
+2022-12-31 11:25:50,956 - logger file -INFO - React App is equal to React App
+2022-12-31 11:25:51,110 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:25:51,354 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:25:51,421 - logger file -INFO - user clicked on login button
+2022-12-31 11:25:51,781 - logger file -INFO - user logged in into account
+2022-12-31 11:25:51,788 - logger file -INFO - React App is equal to React App
+2022-12-31 11:27:07,214 - logger file -INFO - React App is equal to React App
+2022-12-31 11:27:07,344 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:27:07,562 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:27:07,625 - logger file -INFO - user clicked on login button
+2022-12-31 11:27:07,969 - logger file -INFO - user logged in into account
+2022-12-31 11:27:07,977 - logger file -INFO - React App is equal to React App
+2022-12-31 11:35:32,532 - logger file -INFO - React App is equal to React App
+2022-12-31 11:35:32,668 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:35:32,887 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:35:32,963 - logger file -INFO - user clicked on login button
+2022-12-31 11:35:33,305 - logger file -INFO - user logged in into account
+2022-12-31 11:35:33,314 - logger file -INFO - React App is equal to React App
+2022-12-31 11:37:40,323 - logger file -INFO - React App is equal to React App
+2022-12-31 11:37:40,458 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:37:40,694 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:37:40,762 - logger file -INFO - user clicked on login button
+2022-12-31 11:37:41,097 - logger file -INFO - user logged in into account
+2022-12-31 11:37:41,107 - logger file -INFO - React App is equal to React App
+2022-12-31 11:41:27,562 - logger file -INFO - React App is equal to React App
+2022-12-31 11:41:27,684 - logger file -INFO - User clicked on Sing In option
+2022-12-31 11:41:27,908 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 11:41:27,971 - logger file -INFO - user clicked on login button
+2022-12-31 11:41:28,311 - logger file -INFO - user logged in into account
+2022-12-31 11:41:28,439 - logger file -INFO - User clicked on Account button
+2022-12-31 11:41:28,536 - logger file -INFO - user clicked on Add Address option
+2022-12-31 12:24:14,083 - logger file -INFO - React App is equal to React App
+2022-12-31 12:24:14,229 - logger file -INFO - User clicked on Sing In option
+2022-12-31 12:24:14,450 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 12:24:14,513 - logger file -INFO - user clicked on login button
+2022-12-31 12:24:14,906 - logger file -INFO - user logged in into account
+2022-12-31 12:24:15,034 - logger file -INFO - User clicked on Account button
+2022-12-31 12:24:15,154 - logger file -INFO - user clicked on Add Address option
+2022-12-31 12:25:46,703 - logger file -INFO - React App is equal to React App
+2022-12-31 12:25:46,861 - logger file -INFO - User clicked on Sing In option
+2022-12-31 12:25:47,086 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 12:25:47,157 - logger file -INFO - user clicked on login button
+2022-12-31 12:25:47,506 - logger file -INFO - user logged in into account
+2022-12-31 12:25:47,625 - logger file -INFO - User clicked on Account button
+2022-12-31 12:25:47,720 - logger file -INFO - user clicked on Add Address option
+2022-12-31 12:36:17,328 - logger file -INFO - React App is equal to React App
+2022-12-31 12:36:17,491 - logger file -INFO - User clicked on Sing In option
+2022-12-31 12:36:17,752 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 12:36:17,818 - logger file -INFO - user clicked on login button
+2022-12-31 12:36:18,155 - logger file -INFO - user logged in into account
+2022-12-31 12:36:18,284 - logger file -INFO - User clicked on Account button
+2022-12-31 12:36:18,399 - logger file -INFO - user clicked on Add Address option
+2022-12-31 12:36:19,818 - logger file -INFO - user filled the address form
+2022-12-31 12:36:19,915 - logger file -INFO - user clicked Add your Address button
+2022-12-31 12:36:20,710 - logger file -INFO - Address Added Successfully is displayed
+2022-12-31 12:37:19,592 - logger file -INFO - React App is equal to React App
+2022-12-31 12:37:19,748 - logger file -INFO - User clicked on Sing In option
+2022-12-31 12:37:19,988 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 12:37:20,056 - logger file -INFO - user clicked on login button
+2022-12-31 12:37:20,402 - logger file -INFO - user logged in into account
+2022-12-31 12:37:20,542 - logger file -INFO - User clicked on Account button
+2022-12-31 12:37:20,766 - logger file -INFO - user clicked on edit address option
+2022-12-31 12:37:22,201 - logger file -INFO - user filled the address form
+2022-12-31 12:37:22,294 - logger file -INFO - user clicked on Update your Address button
+2022-12-31 12:37:23,087 - logger file -INFO - Address Updated Successfully is displayed
+2022-12-31 12:38:14,986 - logger file -INFO - React App is equal to React App
+2022-12-31 12:38:15,131 - logger file -INFO - User clicked on Sing In option
+2022-12-31 12:38:15,349 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 12:38:15,415 - logger file -INFO - user clicked on login button
+2022-12-31 12:38:15,760 - logger file -INFO - user logged in into account
+2022-12-31 12:38:15,891 - logger file -INFO - User clicked on Account button
+2022-12-31 12:38:16,153 - logger file -INFO - user clicked on remove option of address section
+2022-12-31 12:38:16,180 - logger file -INFO - 
+2022-12-31 13:11:54,840 - logger file -INFO - React App is equal to React App
+2022-12-31 13:11:54,985 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:11:55,212 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:11:55,281 - logger file -INFO - user clicked on login button
+2022-12-31 13:11:55,682 - logger file -INFO - user logged in into account
+2022-12-31 13:11:55,689 - logger file -INFO - React App is equal to React App
+2022-12-31 13:21:17,466 - logger file -INFO - React App is equal to React App
+2022-12-31 13:21:17,609 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:21:17,833 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:21:17,894 - logger file -INFO - user clicked on login button
+2022-12-31 13:21:18,236 - logger file -INFO - user logged in into account
+2022-12-31 13:21:18,245 - logger file -INFO - React App is equal to React App
+2022-12-31 13:27:48,811 - logger file -INFO - React App is equal to React App
+2022-12-31 13:27:48,943 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:27:49,169 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:27:49,233 - logger file -INFO - user clicked on login button
+2022-12-31 13:27:49,556 - logger file -INFO - user logged in into account
+2022-12-31 13:27:49,566 - logger file -INFO - React App is equal to React App
+2022-12-31 13:38:08,552 - logger file -INFO - React App is equal to React App
+2022-12-31 13:38:08,672 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:38:08,902 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:38:08,968 - logger file -INFO - user clicked on login button
+2022-12-31 13:38:09,374 - logger file -INFO - user logged in into account
+2022-12-31 13:38:09,384 - logger file -INFO - React App is equal to React App
+2022-12-31 13:48:30,402 - logger file -INFO - React App is equal to React App
+2022-12-31 13:49:28,753 - logger file -INFO - React App is equal to React App
+2022-12-31 13:51:19,099 - logger file -INFO - React App is equal to React App
+2022-12-31 13:52:38,563 - logger file -INFO - React App is equal to React App
+2022-12-31 13:52:38,710 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:52:38,930 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:52:38,993 - logger file -INFO - user clicked on login button
+2022-12-31 13:52:39,369 - logger file -INFO - user logged in into account
+2022-12-31 13:52:39,377 - logger file -INFO - React App is equal to React App
+2022-12-31 13:55:36,297 - logger file -INFO - React App is equal to React App
+2022-12-31 13:55:36,427 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:55:36,644 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:55:36,706 - logger file -INFO - user clicked on login button
+2022-12-31 13:55:37,042 - logger file -INFO - user logged in into account
+2022-12-31 13:55:37,051 - logger file -INFO - React App is equal to React App
+2022-12-31 13:56:03,900 - logger file -INFO - React App is equal to React App
+2022-12-31 13:56:04,052 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:56:04,279 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:56:04,343 - logger file -INFO - user clicked on login button
+2022-12-31 13:56:04,697 - logger file -INFO - user logged in into account
+2022-12-31 13:56:04,704 - logger file -INFO - React App is equal to React App
+2022-12-31 13:56:20,883 - logger file -INFO - React App is equal to React App
+2022-12-31 13:56:21,021 - logger file -INFO - User clicked on Sing In option
+2022-12-31 13:56:21,264 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 13:56:21,330 - logger file -INFO - user clicked on login button
+2022-12-31 13:56:21,689 - logger file -INFO - user logged in into account
+2022-12-31 13:56:21,695 - logger file -INFO - React App is equal to React App
+2022-12-31 14:01:21,515 - logger file -INFO - React App is equal to React App
+2022-12-31 14:01:24,858 - logger file -INFO - React App is equal to React App
+2022-12-31 14:02:11,793 - logger file -INFO - React App is equal to React App
+2022-12-31 14:02:15,109 - logger file -INFO - React App is equal to React App
+2022-12-31 14:02:15,252 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:02:15,473 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:02:15,534 - logger file -INFO - user clicked on login button
+2022-12-31 14:02:15,916 - logger file -INFO - user logged in into account
+2022-12-31 14:02:15,923 - logger file -INFO - React App is equal to React App
+2022-12-31 14:04:34,107 - logger file -INFO - React App is equal to React App
+2022-12-31 14:04:37,479 - logger file -INFO - React App is equal to React App
+2022-12-31 14:04:37,622 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:04:37,853 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:04:37,917 - logger file -INFO - user clicked on login button
+2022-12-31 14:04:38,310 - logger file -INFO - user logged in into account
+2022-12-31 14:04:38,318 - logger file -INFO - React App is equal to React App
+2022-12-31 14:04:38,391 - logger file -INFO - user clicked on All element
+2022-12-31 14:04:38,422 - logger file -INFO - Electronics is present
+2022-12-31 14:04:38,455 - logger file -INFO - Computers is present
+2022-12-31 14:04:38,479 - logger file -INFO - Smart Home is present
+2022-12-31 14:04:38,507 - logger file -INFO - Sports is present
+2022-12-31 14:04:38,529 - logger file -INFO - Automative is present
+2022-12-31 14:05:09,181 - logger file -INFO - React App is equal to React App
+2022-12-31 14:05:09,343 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:05:09,607 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:05:09,683 - logger file -INFO - user clicked on login button
+2022-12-31 14:05:10,221 - logger file -INFO - user logged in into account
+2022-12-31 14:05:10,229 - logger file -INFO - React App is equal to React App
+2022-12-31 14:05:10,312 - logger file -INFO - user clicked on All element
+2022-12-31 14:05:10,343 - logger file -INFO - Electronics is present
+2022-12-31 14:05:10,367 - logger file -INFO - Computers is present
+2022-12-31 14:05:10,390 - logger file -INFO - Smart Home is present
+2022-12-31 14:05:10,415 - logger file -INFO - Sports is present
+2022-12-31 14:05:10,448 - logger file -INFO - Automative is present
+2022-12-31 14:06:26,018 - logger file -INFO - React App is equal to React App
+2022-12-31 14:06:26,187 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:06:26,454 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:06:26,532 - logger file -INFO - user clicked on login button
+2022-12-31 14:06:26,872 - logger file -INFO - user logged in into account
+2022-12-31 14:06:26,881 - logger file -INFO - React App is equal to React App
+2022-12-31 14:06:26,955 - logger file -INFO - user clicked on All element
+2022-12-31 14:06:27,004 - logger file -INFO - Electronics is present
+2022-12-31 14:06:27,035 - logger file -INFO - Computers is present
+2022-12-31 14:06:27,060 - logger file -INFO - Smart Home is present
+2022-12-31 14:06:27,098 - logger file -INFO - Sports is present
+2022-12-31 14:06:27,166 - logger file -INFO - Automative is present
+2022-12-31 14:15:11,799 - logger file -INFO - React App is equal to React App
+2022-12-31 14:16:56,791 - logger file -INFO - React App is equal to React App
+2022-12-31 14:16:56,916 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:16:57,151 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:16:57,216 - logger file -INFO - user clicked on login button
+2022-12-31 14:16:57,579 - logger file -INFO - user logged in into account
+2022-12-31 14:16:57,671 - logger file -INFO - user clicked on Orders Section
+2022-12-31 14:19:18,483 - logger file -INFO - React App is equal to React App
+2022-12-31 14:19:18,609 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:19:18,823 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:19:18,884 - logger file -INFO - user clicked on login button
+2022-12-31 14:19:19,217 - logger file -INFO - user logged in into account
+2022-12-31 14:19:19,224 - logger file -INFO - React App is equal to React App
+2022-12-31 14:24:52,320 - logger file -INFO - React App is equal to React App
+2022-12-31 14:24:52,455 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:24:52,686 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:24:52,750 - logger file -INFO - user clicked on login button
+2022-12-31 14:24:53,086 - logger file -INFO - user logged in into account
+2022-12-31 14:24:53,092 - logger file -INFO - React App is equal to React App
+2022-12-31 14:35:51,411 - logger file -INFO - React App is equal to React App
+2022-12-31 14:35:51,572 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:35:51,794 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:35:51,860 - logger file -INFO - user clicked on login button
+2022-12-31 14:35:52,340 - logger file -INFO - user logged in into account
+2022-12-31 14:35:52,348 - logger file -INFO - React App is equal to React App
+2022-12-31 14:39:55,025 - logger file -INFO - React App is equal to React App
+2022-12-31 14:39:55,157 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:39:55,373 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:39:55,439 - logger file -INFO - user clicked on login button
+2022-12-31 14:39:55,780 - logger file -INFO - user logged in into account
+2022-12-31 14:39:55,789 - logger file -INFO - React App is equal to React App
+2022-12-31 14:43:36,322 - logger file -INFO - React App is equal to React App
+2022-12-31 14:44:00,013 - logger file -INFO - React App is equal to React App
+2022-12-31 14:44:00,170 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:44:00,400 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:44:00,464 - logger file -INFO - user clicked on login button
+2022-12-31 14:44:00,835 - logger file -INFO - user logged in into account
+2022-12-31 14:44:00,843 - logger file -INFO - React App is equal to React App
+2022-12-31 14:51:38,409 - logger file -INFO - React App is equal to React App
+2022-12-31 14:51:38,588 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:51:38,863 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:51:38,930 - logger file -INFO - user clicked on login button
+2022-12-31 14:51:39,268 - logger file -INFO - user logged in into account
+2022-12-31 14:51:39,279 - logger file -INFO - React App is equal to React App
+2022-12-31 14:57:36,614 - logger file -INFO - React App is equal to React App
+2022-12-31 14:57:36,773 - logger file -INFO - User clicked on Sing In option
+2022-12-31 14:57:37,021 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 14:57:37,099 - logger file -INFO - user clicked on login button
+2022-12-31 14:57:37,467 - logger file -INFO - user logged in into account
+2022-12-31 14:57:37,474 - logger file -INFO - React App is equal to React App
+2022-12-31 15:02:16,915 - logger file -INFO - React App is equal to React App
+2022-12-31 15:02:17,047 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:02:17,271 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:02:17,333 - logger file -INFO - user clicked on login button
+2022-12-31 15:02:17,665 - logger file -INFO - user logged in into account
+2022-12-31 15:02:17,671 - logger file -INFO - React App is equal to React App
+2022-12-31 15:02:45,927 - logger file -INFO - React App is equal to React App
+2022-12-31 15:02:46,063 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:02:46,300 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:02:46,360 - logger file -INFO - user clicked on login button
+2022-12-31 15:02:46,706 - logger file -INFO - user logged in into account
+2022-12-31 15:02:46,715 - logger file -INFO - React App is equal to React App
+2022-12-31 15:09:14,549 - logger file -INFO - React App is equal to React App
+2022-12-31 15:09:14,684 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:09:14,920 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:09:14,982 - logger file -INFO - user clicked on login button
+2022-12-31 15:09:15,320 - logger file -INFO - user logged in into account
+2022-12-31 15:09:15,329 - logger file -INFO - React App is equal to React App
+2022-12-31 15:13:07,856 - logger file -INFO - React App is equal to React App
+2022-12-31 15:13:07,979 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:13:08,210 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:13:08,281 - logger file -INFO - user clicked on login button
+2022-12-31 15:13:08,625 - logger file -INFO - user logged in into account
+2022-12-31 15:13:08,635 - logger file -INFO - React App is equal to React App
+2022-12-31 15:14:43,186 - logger file -INFO - React App is equal to React App
+2022-12-31 15:14:43,318 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:14:43,543 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:14:43,607 - logger file -INFO - user clicked on login button
+2022-12-31 15:14:43,943 - logger file -INFO - user logged in into account
+2022-12-31 15:14:43,953 - logger file -INFO - React App is equal to React App
+2022-12-31 15:17:59,878 - logger file -INFO - React App is equal to React App
+2022-12-31 15:18:00,013 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:18:00,241 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:18:00,306 - logger file -INFO - user clicked on login button
+2022-12-31 15:18:00,647 - logger file -INFO - user logged in into account
+2022-12-31 15:18:00,657 - logger file -INFO - React App is equal to React App
+2022-12-31 15:19:16,085 - logger file -INFO - React App is equal to React App
+2022-12-31 15:19:16,246 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:19:16,496 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:19:16,571 - logger file -INFO - user clicked on login button
+2022-12-31 15:19:16,955 - logger file -INFO - user logged in into account
+2022-12-31 15:19:16,965 - logger file -INFO - React App is equal to React App
+2022-12-31 15:22:02,146 - logger file -INFO - React App is equal to React App
+2022-12-31 15:22:02,282 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:22:02,510 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:22:02,576 - logger file -INFO - user clicked on login button
+2022-12-31 15:22:02,948 - logger file -INFO - user logged in into account
+2022-12-31 15:22:02,957 - logger file -INFO - React App is equal to React App
+2022-12-31 15:22:39,496 - logger file -INFO - React App is equal to React App
+2022-12-31 15:22:39,635 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:22:39,860 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:22:39,923 - logger file -INFO - user clicked on login button
+2022-12-31 15:22:40,280 - logger file -INFO - user logged in into account
+2022-12-31 15:22:40,288 - logger file -INFO - React App is equal to React App
+2022-12-31 15:23:38,734 - logger file -INFO - React App is equal to React App
+2022-12-31 15:23:38,860 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:23:39,088 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:23:39,151 - logger file -INFO - user clicked on login button
+2022-12-31 15:23:39,483 - logger file -INFO - user logged in into account
+2022-12-31 15:23:39,493 - logger file -INFO - React App is equal to React App
+2022-12-31 15:26:00,079 - logger file -INFO - React App is equal to React App
+2022-12-31 15:26:00,224 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:26:47,040 - logger file -INFO - React App is equal to React App
+2022-12-31 15:26:47,191 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:26:47,445 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:26:47,517 - logger file -INFO - user clicked on login button
+2022-12-31 15:26:47,864 - logger file -INFO - user logged in into account
+2022-12-31 15:26:47,873 - logger file -INFO - React App is equal to React App
+2022-12-31 15:27:34,571 - logger file -INFO - React App is equal to React App
+2022-12-31 15:27:34,778 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:27:35,104 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:27:35,200 - logger file -INFO - user clicked on login button
+2022-12-31 15:27:35,574 - logger file -INFO - user logged in into account
+2022-12-31 15:27:35,584 - logger file -INFO - React App is equal to React App
+2022-12-31 15:32:35,085 - logger file -INFO - React App is equal to React App
+2022-12-31 15:32:35,222 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:32:35,451 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:32:35,513 - logger file -INFO - user clicked on login button
+2022-12-31 15:32:35,865 - logger file -INFO - user logged in into account
+2022-12-31 15:32:35,969 - logger file -INFO - user clicked on Orders Section
+2022-12-31 15:34:21,249 - logger file -INFO - React App is equal to React App
+2022-12-31 15:34:21,432 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:34:21,692 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:34:21,769 - logger file -INFO - user clicked on login button
+2022-12-31 15:34:22,111 - logger file -INFO - user logged in into account
+2022-12-31 15:34:22,235 - logger file -INFO - user clicked on Orders Section
+2022-12-31 15:34:22,510 - logger file -INFO - user clicked on first order in list
+2022-12-31 15:34:22,630 - logger file -INFO - user click on Review Button
+2022-12-31 15:34:22,926 - logger file -INFO - user wrote review on product
+2022-12-31 15:34:22,993 - logger file -INFO - user clicked add your review button
+2022-12-31 15:34:23,840 - logger file -INFO - a review message displayed
+2022-12-31 15:35:14,196 - logger file -INFO - React App is equal to React App
+2022-12-31 15:35:14,384 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:35:14,665 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:35:14,775 - logger file -INFO - user clicked on login button
+2022-12-31 15:35:15,149 - logger file -INFO - user logged in into account
+2022-12-31 15:35:15,271 - logger file -INFO - user clicked on Orders Section
+2022-12-31 15:35:15,571 - logger file -INFO - user clicked on first order in list
+2022-12-31 15:35:15,659 - logger file -INFO - user clicked on Return Items Button
+2022-12-31 15:35:15,769 - logger file -INFO - user selected the cancelation Reason Item damaged
+2022-12-31 15:35:15,865 - logger file -INFO - User select the drop off serviceFedEx
+2022-12-31 15:35:15,939 - logger file -INFO - User click on Return Order button
+2022-12-31 15:35:16,163 - logger file -INFO - a cancelation messge displayed Return was successfull
+2022-12-31 15:36:28,767 - logger file -INFO - React App is equal to React App
+2022-12-31 15:36:28,952 - logger file -INFO - User clicked on Sing In option
+2022-12-31 15:36:29,245 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 15:36:29,334 - logger file -INFO - user clicked on login button
+2022-12-31 15:36:29,711 - logger file -INFO - user logged in into account
+2022-12-31 15:36:29,838 - logger file -INFO - user clicked on Orders Section
+2022-12-31 15:36:30,068 - logger file -INFO - user clicked on first order in list
+2022-12-31 15:36:30,155 - logger file -INFO - user clicked on Cancel The Order button
+2022-12-31 15:36:30,257 - logger file -INFO - user selected the cancelation Reason Bought wrong item
+2022-12-31 15:36:30,315 - logger file -INFO - User clicked on Cancel Order Button
+2022-12-31 15:36:30,530 - logger file -INFO - a cancelation messge displayed Your Order Has Been Cancelled
+2022-12-31 15:42:57,477 - logger file -INFO - React App is equal to React App
+2022-12-31 15:46:51,850 - logger file -INFO - React App is equal to React App
+2022-12-31 15:59:37,592 - logger file -INFO - React App is equal to React App
+2022-12-31 16:00:31,130 - logger file -INFO - React App is equal to React App
+2022-12-31 16:00:31,270 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:00:31,503 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:00:31,567 - logger file -INFO - user clicked on login button
+2022-12-31 16:00:31,913 - logger file -INFO - user logged in into account
+2022-12-31 16:00:31,922 - logger file -INFO - React App is equal to React App
+2022-12-31 16:02:44,472 - logger file -INFO - React App is equal to React App
+2022-12-31 16:02:44,594 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:02:44,822 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:02:44,883 - logger file -INFO - user clicked on login button
+2022-12-31 16:02:45,226 - logger file -INFO - user logged in into account
+2022-12-31 16:02:45,237 - logger file -INFO - React App is equal to React App
+2022-12-31 16:06:35,534 - logger file -INFO - React App is equal to React App
+2022-12-31 16:06:35,662 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:06:35,878 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:06:35,940 - logger file -INFO - user clicked on login button
+2022-12-31 16:06:36,290 - logger file -INFO - user logged in into account
+2022-12-31 16:06:36,299 - logger file -INFO - React App is equal to React App
+2022-12-31 16:08:24,293 - logger file -INFO - React App is equal to React App
+2022-12-31 16:08:24,425 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:08:24,654 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:08:24,718 - logger file -INFO - user clicked on login button
+2022-12-31 16:08:25,062 - logger file -INFO - user logged in into account
+2022-12-31 16:08:25,071 - logger file -INFO - React App is equal to React App
+2022-12-31 16:09:58,445 - logger file -INFO - React App is equal to React App
+2022-12-31 16:09:58,571 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:09:58,791 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:09:58,852 - logger file -INFO - user clicked on login button
+2022-12-31 16:09:59,215 - logger file -INFO - user logged in into account
+2022-12-31 16:09:59,221 - logger file -INFO - React App is equal to React App
+2022-12-31 16:11:14,455 - logger file -INFO - React App is equal to React App
+2022-12-31 16:11:14,625 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:11:14,860 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:11:14,928 - logger file -INFO - user clicked on login button
+2022-12-31 16:11:15,301 - logger file -INFO - user logged in into account
+2022-12-31 16:11:15,309 - logger file -INFO - React App is equal to React App
+2022-12-31 16:11:15,331 - logger file -INFO - user logged in into account
+2022-12-31 16:18:39,497 - logger file -INFO - React App is equal to React App
+2022-12-31 16:18:39,634 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:18:39,862 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:18:39,925 - logger file -INFO - user clicked on login button
+2022-12-31 16:18:40,268 - logger file -INFO - user logged in into account
+2022-12-31 16:18:40,276 - logger file -INFO - React App is equal to React App
+2022-12-31 16:18:40,296 - logger file -INFO - user logged in into account
+2022-12-31 16:20:25,531 - logger file -INFO - React App is equal to React App
+2022-12-31 16:20:25,653 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:20:25,887 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:20:25,952 - logger file -INFO - user clicked on login button
+2022-12-31 16:20:26,292 - logger file -INFO - user logged in into account
+2022-12-31 16:20:26,299 - logger file -INFO - React App is equal to React App
+2022-12-31 16:20:26,320 - logger file -INFO - user logged in into account
+2022-12-31 16:21:06,341 - logger file -INFO - React App is equal to React App
+2022-12-31 16:21:06,486 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:21:06,709 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:21:06,772 - logger file -INFO - user clicked on login button
+2022-12-31 16:21:07,165 - logger file -INFO - user logged in into account
+2022-12-31 16:21:07,173 - logger file -INFO - React App is equal to React App
+2022-12-31 16:21:07,199 - logger file -INFO - user logged in into account
+2022-12-31 16:21:07,281 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:21:07,394 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:21:07,458 - logger file -INFO - user clicked on search button
+2022-12-31 16:21:07,748 - logger file -INFO - User clicked on item
+2022-12-31 16:21:08,025 - logger file -INFO - user selected quantity 2
+2022-12-31 16:21:08,084 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:21:08,315 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:21:41,806 - logger file -INFO - React App is equal to React App
+2022-12-31 16:21:41,961 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:21:42,178 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:21:42,242 - logger file -INFO - user clicked on login button
+2022-12-31 16:21:42,614 - logger file -INFO - user logged in into account
+2022-12-31 16:21:42,623 - logger file -INFO - React App is equal to React App
+2022-12-31 16:21:42,649 - logger file -INFO - user logged in into account
+2022-12-31 16:21:42,735 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:21:42,848 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:21:42,912 - logger file -INFO - user clicked on search button
+2022-12-31 16:21:43,210 - logger file -INFO - User clicked on item
+2022-12-31 16:21:43,489 - logger file -INFO - user selected quantity 2
+2022-12-31 16:21:43,548 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:21:43,573 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:22:18,532 - logger file -INFO - React App is equal to React App
+2022-12-31 16:22:18,675 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:22:18,904 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:22:18,965 - logger file -INFO - user clicked on login button
+2022-12-31 16:22:19,310 - logger file -INFO - user logged in into account
+2022-12-31 16:22:19,320 - logger file -INFO - React App is equal to React App
+2022-12-31 16:22:47,782 - logger file -INFO - React App is equal to React App
+2022-12-31 16:22:48,130 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:22:48,196 - logger file -INFO - user clicked on login button
+2022-12-31 16:22:48,547 - logger file -INFO - user logged in into account
+2022-12-31 16:22:48,665 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:22:48,791 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:22:48,868 - logger file -INFO - user clicked on search button
+2022-12-31 16:22:49,183 - logger file -INFO - User clicked on item
+2022-12-31 16:22:49,459 - logger file -INFO - user selected quantity 2
+2022-12-31 16:22:49,518 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:22:49,544 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:23:26,783 - logger file -INFO - React App is equal to React App
+2022-12-31 16:23:26,877 - logger file -INFO - user clicked on All element
+2022-12-31 16:23:27,055 - logger file -INFO - Electronics is present
+2022-12-31 16:23:27,080 - logger file -INFO - Computers is present
+2022-12-31 16:23:27,106 - logger file -INFO - Smart Home is present
+2022-12-31 16:23:27,131 - logger file -INFO - Sports is present
+2022-12-31 16:23:27,154 - logger file -INFO - Automative is present
+2022-12-31 16:24:41,252 - logger file -INFO - React App is equal to React App
+2022-12-31 16:24:41,352 - logger file -INFO - user clicked on All element
+2022-12-31 16:25:05,637 - logger file -INFO - React App is equal to React App
+2022-12-31 16:25:05,714 - logger file -INFO - user clicked on All element
+2022-12-31 16:25:05,861 - logger file -INFO - Accessories is present 
+2022-12-31 16:25:05,909 - logger file -INFO - Networking is present 
+2022-12-31 16:25:09,151 - logger file -INFO - React App is equal to React App
+2022-12-31 16:25:09,222 - logger file -INFO - user clicked on All element
+2022-12-31 16:25:33,026 - logger file -INFO - React App is equal to React App
+2022-12-31 16:25:33,096 - logger file -INFO - user clicked on All element
+2022-12-31 16:25:33,458 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 16:25:33,509 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 16:25:36,692 - logger file -INFO - React App is equal to React App
+2022-12-31 16:25:36,766 - logger file -INFO - user clicked on All element
+2022-12-31 16:25:36,909 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 16:25:36,953 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 16:26:27,971 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:28,107 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:26:28,347 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:26:28,409 - logger file -INFO - user clicked on login button
+2022-12-31 16:26:28,794 - logger file -INFO - user logged in into account
+2022-12-31 16:26:28,802 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:28,877 - logger file -INFO - user clicked on All element
+2022-12-31 16:26:29,116 - logger file -INFO - TV & Video is present 
+2022-12-31 16:26:29,169 - logger file -INFO - Video Games is present 
+2022-12-31 16:26:32,489 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:32,614 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:26:32,841 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:26:32,902 - logger file -INFO - user clicked on login button
+2022-12-31 16:26:33,276 - logger file -INFO - user logged in into account
+2022-12-31 16:26:33,283 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:33,366 - logger file -INFO - user clicked on All element
+2022-12-31 16:26:37,087 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:37,193 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:26:37,405 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:26:37,464 - logger file -INFO - user clicked on login button
+2022-12-31 16:26:37,810 - logger file -INFO - user logged in into account
+2022-12-31 16:26:37,819 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:37,898 - logger file -INFO - user clicked on All element
+2022-12-31 16:26:38,161 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 16:26:38,230 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 16:26:41,656 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:41,765 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:26:41,984 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:26:42,041 - logger file -INFO - user clicked on login button
+2022-12-31 16:26:42,379 - logger file -INFO - user logged in into account
+2022-12-31 16:26:42,388 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:42,473 - logger file -INFO - user clicked on All element
+2022-12-31 16:26:46,170 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:46,271 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:26:46,490 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:26:46,550 - logger file -INFO - user clicked on login button
+2022-12-31 16:26:46,964 - logger file -INFO - user logged in into account
+2022-12-31 16:26:46,969 - logger file -INFO - React App is equal to React App
+2022-12-31 16:26:47,047 - logger file -INFO - user clicked on All element
+2022-12-31 16:26:47,162 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 16:28:07,440 - logger file -INFO - React App is equal to React App
+2022-12-31 16:28:07,582 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:28:07,824 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:28:07,886 - logger file -INFO - user clicked on login button
+2022-12-31 16:28:08,236 - logger file -INFO - user logged in into account
+2022-12-31 16:28:08,243 - logger file -INFO - React App is equal to React App
+2022-12-31 16:29:11,664 - logger file -INFO - React App is equal to React App
+2022-12-31 16:29:11,797 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:29:12,032 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:29:12,094 - logger file -INFO - user clicked on login button
+2022-12-31 16:29:12,436 - logger file -INFO - user logged in into account
+2022-12-31 16:29:12,445 - logger file -INFO - React App is equal to React App
+2022-12-31 16:29:47,597 - logger file -INFO - React App is equal to React App
+2022-12-31 16:29:47,958 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:29:48,021 - logger file -INFO - user clicked on login button
+2022-12-31 16:29:48,359 - logger file -INFO - user logged in into account
+2022-12-31 16:29:48,450 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:29:48,556 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:29:48,634 - logger file -INFO - user clicked on search button
+2022-12-31 16:29:48,915 - logger file -INFO - User clicked on item
+2022-12-31 16:29:49,197 - logger file -INFO - user selected quantity 2
+2022-12-31 16:29:49,262 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:29:49,286 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:30:29,064 - logger file -INFO - React App is equal to React App
+2022-12-31 16:30:29,416 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:30:29,478 - logger file -INFO - user clicked on login button
+2022-12-31 16:30:29,939 - logger file -INFO - user logged in into account
+2022-12-31 16:30:30,042 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:30:30,151 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:30:30,247 - logger file -INFO - user clicked on search button
+2022-12-31 16:30:30,554 - logger file -INFO - User clicked on item
+2022-12-31 16:30:30,831 - logger file -INFO - user selected quantity 2
+2022-12-31 16:30:30,892 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:30:30,918 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:30:30,991 - logger file -INFO - user clicked on cart option
+2022-12-31 16:30:31,079 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:30:31,162 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:30:32,537 - logger file -INFO - user filled the address form
+2022-12-31 16:30:32,632 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:31:11,607 - logger file -INFO - React App is equal to React App
+2022-12-31 16:31:12,068 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:31:12,175 - logger file -INFO - user clicked on login button
+2022-12-31 16:31:12,545 - logger file -INFO - user logged in into account
+2022-12-31 16:31:12,649 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:31:12,771 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:31:12,842 - logger file -INFO - user clicked on search button
+2022-12-31 16:31:13,136 - logger file -INFO - User clicked on item
+2022-12-31 16:31:13,435 - logger file -INFO - user selected quantity 2
+2022-12-31 16:31:13,506 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:32:34,488 - logger file -INFO - React App is equal to React App
+2022-12-31 16:32:34,908 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:32:34,975 - logger file -INFO - user clicked on login button
+2022-12-31 16:32:35,347 - logger file -INFO - user logged in into account
+2022-12-31 16:32:35,434 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:32:35,540 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:32:35,614 - logger file -INFO - user clicked on search button
+2022-12-31 16:32:35,914 - logger file -INFO - User clicked on item
+2022-12-31 16:32:36,198 - logger file -INFO - user selected quantity 2
+2022-12-31 16:32:36,259 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:32:36,479 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:32:36,579 - logger file -INFO - user clicked on cart option
+2022-12-31 16:32:36,666 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:32:36,749 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:32:38,115 - logger file -INFO - user filled the address form
+2022-12-31 16:32:38,213 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:34:58,105 - logger file -INFO - React App is equal to React App
+2022-12-31 16:34:58,457 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:34:58,523 - logger file -INFO - user clicked on login button
+2022-12-31 16:34:58,884 - logger file -INFO - user logged in into account
+2022-12-31 16:34:59,005 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:34:59,138 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:34:59,224 - logger file -INFO - user clicked on search button
+2022-12-31 16:34:59,487 - logger file -INFO - User clicked on item
+2022-12-31 16:34:59,759 - logger file -INFO - user selected quantity 2
+2022-12-31 16:34:59,829 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:34:59,852 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:34:59,924 - logger file -INFO - user clicked on cart option
+2022-12-31 16:35:00,020 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:35:00,117 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:35:01,459 - logger file -INFO - user filled the address form
+2022-12-31 16:35:01,555 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:35:18,109 - logger file -INFO - React App is equal to React App
+2022-12-31 16:35:18,484 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:35:18,547 - logger file -INFO - user clicked on login button
+2022-12-31 16:35:18,925 - logger file -INFO - user logged in into account
+2022-12-31 16:35:19,020 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:35:19,127 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:35:19,192 - logger file -INFO - user clicked on search button
+2022-12-31 16:35:19,490 - logger file -INFO - User clicked on item
+2022-12-31 16:35:19,772 - logger file -INFO - user selected quantity 2
+2022-12-31 16:35:19,829 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:36:41,717 - logger file -INFO - React App is equal to React App
+2022-12-31 16:36:42,066 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:36:42,128 - logger file -INFO - user clicked on login button
+2022-12-31 16:36:42,471 - logger file -INFO - user logged in into account
+2022-12-31 16:36:42,583 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:36:42,701 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:36:42,775 - logger file -INFO - user clicked on search button
+2022-12-31 16:36:43,048 - logger file -INFO - User clicked on item
+2022-12-31 16:36:43,312 - logger file -INFO - user selected quantity 2
+2022-12-31 16:36:43,371 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:36:43,596 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:36:43,684 - logger file -INFO - user clicked on cart option
+2022-12-31 16:36:43,771 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:36:43,855 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:36:45,193 - logger file -INFO - user filled the address form
+2022-12-31 16:36:45,287 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:40:34,640 - logger file -INFO - React App is equal to React App
+2022-12-31 16:40:35,047 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:40:35,117 - logger file -INFO - user clicked on login button
+2022-12-31 16:40:35,526 - logger file -INFO - user logged in into account
+2022-12-31 16:40:35,618 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:40:35,733 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:40:35,806 - logger file -INFO - user clicked on search button
+2022-12-31 16:40:36,090 - logger file -INFO - User clicked on item
+2022-12-31 16:40:36,367 - logger file -INFO - user selected quantity 2
+2022-12-31 16:40:36,428 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:40:36,450 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:40:36,521 - logger file -INFO - user clicked on cart option
+2022-12-31 16:40:36,611 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:40:36,700 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:40:38,144 - logger file -INFO - user filled the address form
+2022-12-31 16:40:38,234 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:40:38,568 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:40:39,005 - logger file -INFO - user entered required card information
+2022-12-31 16:40:39,071 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:40:48,857 - logger file -INFO - React App is equal to React App
+2022-12-31 16:40:49,232 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:40:49,300 - logger file -INFO - user clicked on login button
+2022-12-31 16:40:49,707 - logger file -INFO - user logged in into account
+2022-12-31 16:40:49,793 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:40:49,902 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:40:49,969 - logger file -INFO - user clicked on search button
+2022-12-31 16:40:50,255 - logger file -INFO - User clicked on item
+2022-12-31 16:40:50,522 - logger file -INFO - user selected quantity 2
+2022-12-31 16:40:50,586 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:41:26,695 - logger file -INFO - React App is equal to React App
+2022-12-31 16:41:27,057 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:41:27,121 - logger file -INFO - user clicked on login button
+2022-12-31 16:41:27,487 - logger file -INFO - user logged in into account
+2022-12-31 16:41:27,578 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:41:27,685 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:41:27,749 - logger file -INFO - user clicked on search button
+2022-12-31 16:41:28,006 - logger file -INFO - User clicked on item
+2022-12-31 16:41:28,292 - logger file -INFO - user selected quantity 2
+2022-12-31 16:41:28,352 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:41:28,587 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:41:28,687 - logger file -INFO - user clicked on cart option
+2022-12-31 16:41:28,779 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:41:28,867 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:41:30,247 - logger file -INFO - user filled the address form
+2022-12-31 16:41:30,360 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:41:30,714 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:41:31,176 - logger file -INFO - user entered required card information
+2022-12-31 16:41:31,239 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:42:20,480 - logger file -INFO - React App is equal to React App
+2022-12-31 16:42:20,856 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:42:20,919 - logger file -INFO - user clicked on login button
+2022-12-31 16:42:21,267 - logger file -INFO - user logged in into account
+2022-12-31 16:42:21,381 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:42:21,496 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:42:21,606 - logger file -INFO - user clicked on search button
+2022-12-31 16:42:21,894 - logger file -INFO - User clicked on item
+2022-12-31 16:42:22,170 - logger file -INFO - user selected quantity 2
+2022-12-31 16:42:22,237 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:42:22,262 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:42:22,358 - logger file -INFO - user clicked on cart option
+2022-12-31 16:42:22,450 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:42:22,541 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:42:23,878 - logger file -INFO - user filled the address form
+2022-12-31 16:42:23,978 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:42:24,312 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:42:24,791 - logger file -INFO - user entered required card information
+2022-12-31 16:42:24,855 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:42:25,053 - logger file -INFO - user clicked on place your order
+2022-12-31 16:45:05,661 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:05,759 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:35,312 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:35,456 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:45:35,679 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:45:35,750 - logger file -INFO - user clicked on login button
+2022-12-31 16:45:36,117 - logger file -INFO - user logged in into account
+2022-12-31 16:45:36,125 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:36,192 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:36,364 - logger file -INFO - TV & Video is present 
+2022-12-31 16:45:36,417 - logger file -INFO - Video Games is present 
+2022-12-31 16:45:39,681 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:39,787 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:45:39,997 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:45:40,057 - logger file -INFO - user clicked on login button
+2022-12-31 16:45:40,397 - logger file -INFO - user logged in into account
+2022-12-31 16:45:40,402 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:40,470 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:44,139 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:44,247 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:45:44,464 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:45:44,521 - logger file -INFO - user clicked on login button
+2022-12-31 16:45:44,865 - logger file -INFO - user logged in into account
+2022-12-31 16:45:44,870 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:44,940 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:45,248 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 16:45:45,305 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 16:45:48,624 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:48,746 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:45:48,974 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:45:49,031 - logger file -INFO - user clicked on login button
+2022-12-31 16:45:49,400 - logger file -INFO - user logged in into account
+2022-12-31 16:45:49,406 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:49,476 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:53,290 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:53,385 - logger file -INFO - User clicked on Sing In option
+2022-12-31 16:45:53,607 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:45:53,669 - logger file -INFO - user clicked on login button
+2022-12-31 16:45:54,000 - logger file -INFO - user logged in into account
+2022-12-31 16:45:54,005 - logger file -INFO - React App is equal to React App
+2022-12-31 16:45:54,067 - logger file -INFO - user clicked on All element
+2022-12-31 16:45:54,186 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 16:47:14,212 - logger file -INFO - React App is equal to React App
+2022-12-31 16:47:14,310 - logger file -INFO - user clicked on All element
+2022-12-31 16:48:07,892 - logger file -INFO - React App is equal to React App
+2022-12-31 16:48:07,998 - logger file -INFO - user clicked on All element
+2022-12-31 16:48:08,184 - logger file -INFO - Electronics is present
+2022-12-31 16:48:08,221 - logger file -INFO - Computers is present
+2022-12-31 16:48:08,253 - logger file -INFO - Smart Home is present
+2022-12-31 16:48:08,278 - logger file -INFO - Sports is present
+2022-12-31 16:48:08,303 - logger file -INFO - Automative is present
+2022-12-31 16:50:04,233 - logger file -INFO - React App is equal to React App
+2022-12-31 16:50:04,612 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:50:04,675 - logger file -INFO - user clicked on login button
+2022-12-31 16:50:05,014 - logger file -INFO - user logged in into account
+2022-12-31 16:50:05,117 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:50:05,246 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:50:05,344 - logger file -INFO - user clicked on search button
+2022-12-31 16:50:05,610 - logger file -INFO - User clicked on item
+2022-12-31 16:50:05,881 - logger file -INFO - user selected quantity 2
+2022-12-31 16:50:05,941 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:50:36,607 - logger file -INFO - React App is equal to React App
+2022-12-31 16:50:36,980 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:50:37,044 - logger file -INFO - user clicked on login button
+2022-12-31 16:50:37,422 - logger file -INFO - user logged in into account
+2022-12-31 16:50:37,512 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:50:37,616 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:50:37,681 - logger file -INFO - user clicked on search button
+2022-12-31 16:50:37,971 - logger file -INFO - User clicked on item
+2022-12-31 16:50:38,250 - logger file -INFO - user selected quantity 2
+2022-12-31 16:50:38,313 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:50:38,591 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:52:21,407 - logger file -INFO - React App is equal to React App
+2022-12-31 16:52:21,745 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:52:21,811 - logger file -INFO - user clicked on login button
+2022-12-31 16:52:22,147 - logger file -INFO - user logged in into account
+2022-12-31 16:52:22,242 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:52:22,346 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:52:22,425 - logger file -INFO - user clicked on search button
+2022-12-31 16:52:22,699 - logger file -INFO - User clicked on item
+2022-12-31 16:52:22,959 - logger file -INFO - user selected quantity 2
+2022-12-31 16:52:23,017 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:52:23,039 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:52:23,109 - logger file -INFO - user clicked on cart option
+2022-12-31 16:52:23,197 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:52:23,277 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:52:24,653 - logger file -INFO - user filled the address form
+2022-12-31 16:52:24,757 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:52:25,099 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:52:25,524 - logger file -INFO - user entered required card information
+2022-12-31 16:52:25,585 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:53:00,236 - logger file -INFO - React App is equal to React App
+2022-12-31 16:53:00,578 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:53:00,643 - logger file -INFO - user clicked on login button
+2022-12-31 16:53:00,984 - logger file -INFO - user logged in into account
+2022-12-31 16:53:01,075 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:53:01,184 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:53:01,260 - logger file -INFO - user clicked on search button
+2022-12-31 16:53:01,528 - logger file -INFO - User clicked on item
+2022-12-31 16:53:01,811 - logger file -INFO - user selected quantity 2
+2022-12-31 16:53:01,868 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:54:00,655 - logger file -INFO - React App is equal to React App
+2022-12-31 16:54:01,028 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:54:01,092 - logger file -INFO - user clicked on login button
+2022-12-31 16:54:01,469 - logger file -INFO - user logged in into account
+2022-12-31 16:54:01,561 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:54:01,679 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:54:01,743 - logger file -INFO - user clicked on search button
+2022-12-31 16:54:02,044 - logger file -INFO - User clicked on item
+2022-12-31 16:54:02,325 - logger file -INFO - user selected quantity 2
+2022-12-31 16:54:02,386 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:54:02,616 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:54:02,710 - logger file -INFO - user clicked on cart option
+2022-12-31 16:54:02,800 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:54:02,884 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:54:04,320 - logger file -INFO - user filled the address form
+2022-12-31 16:54:04,427 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:54:04,767 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:54:05,246 - logger file -INFO - user entered required card information
+2022-12-31 16:54:05,307 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:54:05,513 - logger file -INFO - user clicked on place your order
+2022-12-31 16:56:51,723 - logger file -INFO - React App is equal to React App
+2022-12-31 16:56:52,069 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:56:52,137 - logger file -INFO - user clicked on login button
+2022-12-31 16:56:52,455 - logger file -INFO - user logged in into account
+2022-12-31 16:56:52,555 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:56:52,665 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:56:52,745 - logger file -INFO - user clicked on search button
+2022-12-31 16:56:53,048 - logger file -INFO - User clicked on item
+2022-12-31 16:56:53,315 - logger file -INFO - user selected quantity 2
+2022-12-31 16:56:53,371 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:56:53,395 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:56:53,470 - logger file -INFO - user clicked on cart option
+2022-12-31 16:56:53,567 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:56:53,655 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:56:54,987 - logger file -INFO - user filled the address form
+2022-12-31 16:56:55,079 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:56:55,421 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:56:55,898 - logger file -INFO - user entered required card information
+2022-12-31 16:56:55,959 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:57:19,501 - logger file -INFO - React App is equal to React App
+2022-12-31 16:57:19,852 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:57:19,913 - logger file -INFO - user clicked on login button
+2022-12-31 16:57:20,262 - logger file -INFO - user logged in into account
+2022-12-31 16:57:20,368 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:57:20,515 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:57:20,591 - logger file -INFO - user clicked on search button
+2022-12-31 16:57:20,864 - logger file -INFO - User clicked on item
+2022-12-31 16:57:21,154 - logger file -INFO - user selected quantity 2
+2022-12-31 16:57:21,218 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:58:50,194 - logger file -INFO - React App is equal to React App
+2022-12-31 16:58:50,533 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 16:58:50,595 - logger file -INFO - user clicked on login button
+2022-12-31 16:58:50,914 - logger file -INFO - user logged in into account
+2022-12-31 16:58:51,030 - logger file -INFO - Smart Home was selected from the drop down
+2022-12-31 16:58:51,142 - logger file -INFO - user entered kasa outdoor smart plug
+2022-12-31 16:58:51,211 - logger file -INFO - user clicked on search button
+2022-12-31 16:58:51,491 - logger file -INFO - User clicked on item
+2022-12-31 16:58:51,765 - logger file -INFO - user selected quantity 2
+2022-12-31 16:58:51,825 - logger file -INFO - user clicked add to cart button
+2022-12-31 16:58:52,051 - logger file -INFO - the cart icon quantity changed to 2
+2022-12-31 16:58:52,143 - logger file -INFO - user clicked on cart option
+2022-12-31 16:58:52,241 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 16:58:52,332 - logger file -INFO - user clicked add a new address link for shipping address
+2022-12-31 16:58:53,734 - logger file -INFO - user filled the address form
+2022-12-31 16:58:53,828 - logger file -INFO - user clicked Add your Address button
+2022-12-31 16:58:54,165 - logger file -INFO - User clicked Add a credit card or Debit Card for Payment method
+2022-12-31 16:58:54,628 - logger file -INFO - user entered required card information
+2022-12-31 16:58:54,689 - logger file -INFO - user clicked on Add your card button
+2022-12-31 16:58:54,893 - logger file -INFO - user clicked on place your order
+2022-12-31 16:59:29,374 - logger file -INFO - React App is equal to React App
+2022-12-31 16:59:29,487 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:00,314 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:00,473 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:00:00,729 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:00:00,795 - logger file -INFO - user clicked on login button
+2022-12-31 17:00:01,267 - logger file -INFO - user logged in into account
+2022-12-31 17:00:01,275 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:01,347 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:05,054 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:05,172 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:00:05,408 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:00:05,468 - logger file -INFO - user clicked on login button
+2022-12-31 17:00:05,815 - logger file -INFO - user logged in into account
+2022-12-31 17:00:05,825 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:05,901 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:06,148 - logger file -INFO - Accessories is present 
+2022-12-31 17:00:06,203 - logger file -INFO - Networking is present 
+2022-12-31 17:00:09,370 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:09,475 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:00:09,700 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:00:09,757 - logger file -INFO - user clicked on login button
+2022-12-31 17:00:10,231 - logger file -INFO - user logged in into account
+2022-12-31 17:00:10,237 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:10,311 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:10,617 - logger file -INFO - Smart Home Lightning is present 
+2022-12-31 17:00:10,675 - logger file -INFO - Plugs and Outlets is present 
+2022-12-31 17:00:14,105 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:14,227 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:00:14,474 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:00:14,536 - logger file -INFO - user clicked on login button
+2022-12-31 17:00:14,882 - logger file -INFO - user logged in into account
+2022-12-31 17:00:14,900 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:14,964 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:15,198 - logger file -INFO - Athletic Clothing is present 
+2022-12-31 17:00:15,248 - logger file -INFO - Exercise & Fitness is present 
+2022-12-31 17:00:18,392 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:18,489 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:00:18,695 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:00:18,751 - logger file -INFO - user clicked on login button
+2022-12-31 17:00:19,086 - logger file -INFO - user logged in into account
+2022-12-31 17:00:19,094 - logger file -INFO - React App is equal to React App
+2022-12-31 17:00:19,177 - logger file -INFO - user clicked on All element
+2022-12-31 17:00:19,416 - logger file -INFO - Automative Parts & Accessories is present 
+2022-12-31 17:00:19,472 - logger file -INFO - MotorCycle & Powersports is present 
+2022-12-31 17:02:30,612 - logger file -INFO - React App is equal to React App
+2022-12-31 17:02:30,746 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:02:30,970 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:02:31,032 - logger file -INFO - user clicked on login button
+2022-12-31 17:02:31,350 - logger file -INFO - user logged in into account
+2022-12-31 17:02:31,360 - logger file -INFO - React App is equal to React App
+2022-12-31 17:02:31,447 - logger file -INFO - user clicked on All element
+2022-12-31 17:02:31,485 - logger file -INFO - Electronics is present
+2022-12-31 17:02:31,517 - logger file -INFO - Computers is present
+2022-12-31 17:02:31,542 - logger file -INFO - Smart Home is present
+2022-12-31 17:02:31,570 - logger file -INFO - Sports is present
+2022-12-31 17:02:31,609 - logger file -INFO - Automative is present
+2022-12-31 17:03:07,135 - logger file -INFO - React App is equal to React App
+2022-12-31 17:03:07,274 - logger file -INFO - User clicked on Sing In option
+2022-12-31 17:03:07,514 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:03:07,576 - logger file -INFO - user clicked on login button
+2022-12-31 17:03:07,940 - logger file -INFO - user logged in into account
+2022-12-31 17:03:07,951 - logger file -INFO - React App is equal to React App
+2022-12-31 17:03:34,312 - logger file -INFO - React App is equal to React App
+2022-12-31 17:03:34,666 - logger file -INFO - user entered email test@test.comand password 12345@Tek
+2022-12-31 17:03:34,734 - logger file -INFO - user clicked on login button
+2022-12-31 17:03:35,153 - logger file -INFO - user logged in into account
+2022-12-31 17:03:35,239 - logger file -INFO - Electronics was selected from the drop down
+2022-12-31 17:03:35,337 - logger file -INFO - user entered Apex Legends
+2022-12-31 17:03:35,404 - logger file -INFO - user clicked on search button
+2022-12-31 17:03:35,698 - logger file -INFO - User clicked on item
+2022-12-31 17:03:35,979 - logger file -INFO - user selected quantity 5
+2022-12-31 17:03:36,047 - logger file -INFO - user clicked add to cart button
+2022-12-31 17:05:34,304 - logger file -INFO - React App is equal to React App
+2022-12-31 17:05:34,728 - logger file -INFO - user entered email 1234@gmail.comand password S12345678s!
+2022-12-31 17:05:34,805 - logger file -INFO - user clicked on login button
+2022-12-31 17:05:35,176 - logger file -INFO - user logged in into account
+2022-12-31 17:05:35,260 - logger file -INFO - Electronics was selected from the drop down
+2022-12-31 17:05:35,358 - logger file -INFO - user entered Apex Legends
+2022-12-31 17:05:35,434 - logger file -INFO - user clicked on search button
+2022-12-31 17:05:35,713 - logger file -INFO - User clicked on item
+2022-12-31 17:05:35,993 - logger file -INFO - user selected quantity 5
+2022-12-31 17:05:36,070 - logger file -INFO - user clicked add to cart button
+2022-12-31 17:05:36,297 - logger file -INFO - the cart icon quantity changed to 5
+2022-12-31 17:05:36,392 - logger file -INFO - user clicked on cart option
+2022-12-31 17:05:36,483 - logger file -INFO - user clicked on Proceed to Checkout button
+2022-12-31 17:05:36,558 - logger file -INFO - user clicked on place your order
